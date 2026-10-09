@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "variant": "light",
+  "baseRoles": [
+    "Amiya"
+  ],
+  "optionalVoiceModels": true,
+  "personalDataIncluded": false,
+  "functionalValidation": "not_run",
+  "includesSharedSpeechRuntime": false,
+  "excludesTestsAndPersonalData": true,
+  "installers": {
+    "directory": "安装程序/2026-10-09-r1",
+    "version": "0.3.0",
+    "variant": "light",
+    "codeSigned": false,
+    "requiresNodeForInstaller": false,
+    "fullDataVolumes": 0
+  }
+}

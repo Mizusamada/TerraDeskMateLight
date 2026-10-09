@@ -1,0 +1,4654 @@
+{
+  "schemaVersion": 1,
+  "edition": "light",
+  "release": "v0.3.0",
+  "installers": [
+    {
+      "file": "TerraDeskMatLight-Setup-0.3.0.exe",
+      "bytes": 151602537,
+      "kind": "installer"
+    }
+  ],
+  "sourceAssets": [
+    {
+      "file": "light-source-assets.zip.001",
+      "bytes": 8894677,
+      "kind": "source-assets"
+    }
+  ],
+  "basePackages": [
+    {
+      "file": "base-7910f86865b37dde.zip",
+      "bytes": 2419091,
+      "kind": "base",
+      "roleId": "12F",
+      "displayName": "12F",
+      "sourceFolder": "角色基础包/12F",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-7910f86865b37dde.zip"
+    },
+    {
+      "file": "base-15a9123f0dd55658.zip",
+      "bytes": 4851119,
+      "kind": "base",
+      "roleId": "Aak",
+      "displayName": "阿",
+      "sourceFolder": "角色基础包/Aak",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-15a9123f0dd55658.zip"
+    },
+    {
+      "file": "base-31a62c604196b2fb.zip",
+      "bytes": 4047875,
+      "kind": "base",
+      "roleId": "Absinthe",
+      "displayName": "苦艾",
+      "sourceFolder": "角色基础包/Absinthe",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-31a62c604196b2fb.zip"
+    },
+    {
+      "file": "base-fb1d05bf59731e10.zip",
+      "bytes": 4289735,
+      "kind": "base",
+      "roleId": "Aciddrop",
+      "displayName": "酸糖",
+      "sourceFolder": "角色基础包/Aciddrop",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-fb1d05bf59731e10.zip"
+    },
+    {
+      "file": "base-5b2519c578aab0d9.zip",
+      "bytes": 2591323,
+      "kind": "base",
+      "roleId": "Adnachiel",
+      "displayName": "安德切尔",
+      "sourceFolder": "角色基础包/Adnachiel",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-5b2519c578aab0d9.zip"
+    },
+    {
+      "file": "base-969850e59a53a970.zip",
+      "bytes": 4826477,
+      "kind": "base",
+      "roleId": "Aegis",
+      "displayName": "埃癸斯",
+      "sourceFolder": "角色基础包/Aegis",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-969850e59a53a970.zip"
+    },
+    {
+      "file": "base-d641697c6ce27858.zip",
+      "bytes": 6288897,
+      "kind": "base",
+      "roleId": "Akafuyu",
+      "displayName": "赤冬",
+      "sourceFolder": "角色基础包/Akafuyu",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-d641697c6ce27858.zip"
+    },
+    {
+      "file": "base-9ad576b82cf81c15.zip",
+      "bytes": 5779490,
+      "kind": "base",
+      "roleId": "Akkord",
+      "displayName": "协律",
+      "sourceFolder": "角色基础包/Akkord",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-9ad576b82cf81c15.zip"
+    },
+    {
+      "file": "base-c601dd28c8840efa.zip",
+      "bytes": 4225154,
+      "kind": "base",
+      "roleId": "Alanna",
+      "displayName": "阿兰娜",
+      "sourceFolder": "角色基础包/Alanna",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-c601dd28c8840efa.zip"
+    },
+    {
+      "file": "base-81fda04b5cade7f0.zip",
+      "bytes": 5072935,
+      "kind": "base",
+      "roleId": "Almond",
+      "displayName": "杏仁",
+      "sourceFolder": "角色基础包/Almond",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-81fda04b5cade7f0.zip"
+    },
+    {
+      "file": "base-c1e32195798e699a.zip",
+      "bytes": 4745730,
+      "kind": "base",
+      "roleId": "Ambriel",
+      "displayName": "安比尔",
+      "sourceFolder": "角色基础包/Ambriel",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-c1e32195798e699a.zip"
+    },
+    {
+      "file": "base-b5d843c9b139acec.zip",
+      "bytes": 8076112,
+      "kind": "base",
+      "roleId": "Amiya(医疗)",
+      "displayName": "阿米娅",
+      "sourceFolder": "角色基础包/Amiya(医疗)",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-b5d843c9b139acec.zip"
+    },
+    {
+      "file": "base-ff98469e0fd8c472.zip",
+      "bytes": 8657938,
+      "kind": "base",
+      "roleId": "Amiya(近卫)",
+      "displayName": "阿米娅",
+      "sourceFolder": "角色基础包/Amiya(近卫)",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-ff98469e0fd8c472.zip"
+    },
+    {
+      "file": "base-f80ef09efc6795b9.zip",
+      "bytes": 4420867,
+      "kind": "base",
+      "roleId": "Andreana",
+      "displayName": "安哲拉",
+      "sourceFolder": "角色基础包/Andreana",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-f80ef09efc6795b9.zip"
+    },
+    {
+      "file": "base-8166012c08dc2ba6.zip",
+      "bytes": 4365968,
+      "kind": "base",
+      "roleId": "Angelina",
+      "displayName": "安洁莉娜",
+      "sourceFolder": "角色基础包/Angelina",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-8166012c08dc2ba6.zip"
+    },
+    {
+      "file": "base-6f04e2bff3161d79.zip",
+      "bytes": 5057108,
+      "kind": "base",
+      "roleId": "Angelina the Mellow Wish",
+      "displayName": "予愿安洁莉娜",
+      "sourceFolder": "角色基础包/Angelina the Mellow Wish",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-6f04e2bff3161d79.zip"
+    },
+    {
+      "file": "base-f4a538157904cad2.zip",
+      "bytes": 3343971,
+      "kind": "base",
+      "roleId": "Ansel",
+      "displayName": "安赛尔",
+      "sourceFolder": "角色基础包/Ansel",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-f4a538157904cad2.zip"
+    },
+    {
+      "file": "base-11f3083482a94553.zip",
+      "bytes": 3960820,
+      "kind": "base",
+      "roleId": "Aosta",
+      "displayName": "奥斯塔",
+      "sourceFolder": "角色基础包/Aosta",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-11f3083482a94553.zip"
+    },
+    {
+      "file": "base-1be5b677121c4b61.zip",
+      "bytes": 5231085,
+      "kind": "base",
+      "roleId": "Aphrissa",
+      "displayName": "谬因",
+      "sourceFolder": "角色基础包/Aphrissa",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-1be5b677121c4b61.zip"
+    },
+    {
+      "file": "base-4afe6ea150d532c1.zip",
+      "bytes": 4406312,
+      "kind": "base",
+      "roleId": "April",
+      "displayName": "四月",
+      "sourceFolder": "角色基础包/April",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-4afe6ea150d532c1.zip"
+    },
+    {
+      "file": "base-ae9dad11d4d07a5d.zip",
+      "bytes": 6950762,
+      "kind": "base",
+      "roleId": "Archetto",
+      "displayName": "空弦",
+      "sourceFolder": "角色基础包/Archetto",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-ae9dad11d4d07a5d.zip"
+    },
+    {
+      "file": "base-9b8b0d9fa963f204.zip",
+      "bytes": 4728587,
+      "kind": "base",
+      "roleId": "Arene",
+      "displayName": "芳汀",
+      "sourceFolder": "角色基础包/Arene",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-9b8b0d9fa963f204.zip"
+    },
+    {
+      "file": "base-438a2f5435e9ac3e.zip",
+      "bytes": 5582455,
+      "kind": "base",
+      "roleId": "Aroma",
+      "displayName": "阿罗玛",
+      "sourceFolder": "角色基础包/Aroma",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-438a2f5435e9ac3e.zip"
+    },
+    {
+      "file": "base-6b210ed7077c2ff5.zip",
+      "bytes": 4003486,
+      "kind": "base",
+      "roleId": "Asbestos",
+      "displayName": "石棉",
+      "sourceFolder": "角色基础包/Asbestos",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-6b210ed7077c2ff5.zip"
+    },
+    {
+      "file": "base-fd2909fd5d892d68.zip",
+      "bytes": 5021563,
+      "kind": "base",
+      "roleId": "Ascalon",
+      "displayName": "阿斯卡纶",
+      "sourceFolder": "角色基础包/Ascalon",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-fd2909fd5d892d68.zip"
+    },
+    {
+      "file": "base-bda94d3dce78637e.zip",
+      "bytes": 2224159,
+      "kind": "base",
+      "roleId": "Ash",
+      "displayName": "灰烬",
+      "sourceFolder": "角色基础包/Ash",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-bda94d3dce78637e.zip"
+    },
+    {
+      "file": "base-4c69f5136eff3d8d.zip",
+      "bytes": 4557926,
+      "kind": "base",
+      "roleId": "Ashlock",
+      "displayName": "灰毫",
+      "sourceFolder": "角色基础包/Ashlock",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-4c69f5136eff3d8d.zip"
+    },
+    {
+      "file": "base-51cd522c89bb116a.zip",
+      "bytes": 5915174,
+      "kind": "base",
+      "roleId": "Astesia",
+      "displayName": "星极",
+      "sourceFolder": "角色基础包/Astesia",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-51cd522c89bb116a.zip"
+    },
+    {
+      "file": "base-a453ca7ebd2a6f83.zip",
+      "bytes": 4559404,
+      "kind": "base",
+      "roleId": "Astgenne",
+      "displayName": "星源",
+      "sourceFolder": "角色基础包/Astgenne",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-a453ca7ebd2a6f83.zip"
+    },
+    {
+      "file": "base-4a4c29379e8db109.zip",
+      "bytes": 5130367,
+      "kind": "base",
+      "roleId": "Astgenne the Lightchaser",
+      "displayName": "溯光星源",
+      "sourceFolder": "角色基础包/Astgenne the Lightchaser",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-4a4c29379e8db109.zip"
+    },
+    {
+      "file": "base-e9de098c7733b1b9.zip",
+      "bytes": 3973648,
+      "kind": "base",
+      "roleId": "Aurora",
+      "displayName": "极光",
+      "sourceFolder": "角色基础包/Aurora",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-e9de098c7733b1b9.zip"
+    },
+    {
+      "file": "base-add40befda845223.zip",
+      "bytes": 3331246,
+      "kind": "base",
+      "roleId": "Ayerscarpe",
+      "displayName": "断崖",
+      "sourceFolder": "角色基础包/Ayerscarpe",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-add40befda845223.zip"
+    },
+    {
+      "file": "base-ff4a4895389bf78a.zip",
+      "bytes": 6237509,
+      "kind": "base",
+      "roleId": "Bagpipe",
+      "displayName": "风笛",
+      "sourceFolder": "角色基础包/Bagpipe",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-ff4a4895389bf78a.zip"
+    },
+    {
+      "file": "base-2aa1ec94747fe07f.zip",
+      "bytes": 4490785,
+      "kind": "base",
+      "roleId": "Bassline",
+      "displayName": "深律",
+      "sourceFolder": "角色基础包/Bassline",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-2aa1ec94747fe07f.zip"
+    },
+    {
+      "file": "base-6502cf86318aa7e4.zip",
+      "bytes": 2973667,
+      "kind": "base",
+      "roleId": "Beagle",
+      "displayName": "米格鲁",
+      "sourceFolder": "角色基础包/Beagle",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-6502cf86318aa7e4.zip"
+    },
+    {
+      "file": "base-6a65119661a4581a.zip",
+      "bytes": 4872330,
+      "kind": "base",
+      "roleId": "Beanstalk",
+      "displayName": "豆苗",
+      "sourceFolder": "角色基础包/Beanstalk",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-6a65119661a4581a.zip"
+    },
+    {
+      "file": "base-e1113becebb32006.zip",
+      "bytes": 2867073,
+      "kind": "base",
+      "roleId": "Beehunter",
+      "displayName": "猎蜂",
+      "sourceFolder": "角色基础包/Beehunter",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-e1113becebb32006.zip"
+    },
+    {
+      "file": "base-e51c1c59e4582f3c.zip",
+      "bytes": 6420353,
+      "kind": "base",
+      "roleId": "Beeswax",
+      "displayName": "蜜蜡",
+      "sourceFolder": "角色基础包/Beeswax",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-e51c1c59e4582f3c.zip"
+    },
+    {
+      "file": "base-ff2b0750baf88fec.zip",
+      "bytes": 5209665,
+      "kind": "base",
+      "roleId": "Bellone",
+      "displayName": "贝洛内",
+      "sourceFolder": "角色基础包/Bellone",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-ff2b0750baf88fec.zip"
+    },
+    {
+      "file": "base-e8cc5db633f2eb5e.zip",
+      "bytes": 4403475,
+      "kind": "base",
+      "roleId": "Bena",
+      "displayName": "贝娜",
+      "sourceFolder": "角色基础包/Bena",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-e8cc5db633f2eb5e.zip"
+    },
+    {
+      "file": "base-abf59911f0e90b27.zip",
+      "bytes": 5194003,
+      "kind": "base",
+      "roleId": "Bibeak",
+      "displayName": "柏喙",
+      "sourceFolder": "角色基础包/Bibeak",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-abf59911f0e90b27.zip"
+    },
+    {
+      "file": "base-80e37d1805fc2bf0.zip",
+      "bytes": 3598597,
+      "kind": "base",
+      "roleId": "Bison",
+      "displayName": "拜松",
+      "sourceFolder": "角色基础包/Bison",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-80e37d1805fc2bf0.zip"
+    },
+    {
+      "file": "base-3445490027a20dd4.zip",
+      "bytes": 5297569,
+      "kind": "base",
+      "roleId": "Blacknight",
+      "displayName": "夜半",
+      "sourceFolder": "角色基础包/Blacknight",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-3445490027a20dd4.zip"
+    },
+    {
+      "file": "base-36f2a17105bc157d.zip",
+      "bytes": 6332025,
+      "kind": "base",
+      "roleId": "Blaze",
+      "displayName": "煌",
+      "sourceFolder": "角色基础包/Blaze",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-36f2a17105bc157d.zip"
+    },
+    {
+      "file": "base-9063cda41bca69d3.zip",
+      "bytes": 5997641,
+      "kind": "base",
+      "roleId": "Blaze the Igniting Spark",
+      "displayName": "烛煌",
+      "sourceFolder": "角色基础包/Blaze the Igniting Spark",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-9063cda41bca69d3.zip"
+    },
+    {
+      "file": "base-b55c75e1fb26d2a2.zip",
+      "bytes": 5800558,
+      "kind": "base",
+      "roleId": "Blemishine",
+      "displayName": "瑕光",
+      "sourceFolder": "角色基础包/Blemishine",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-b55c75e1fb26d2a2.zip"
+    },
+    {
+      "file": "base-ca6744f733d57827.zip",
+      "bytes": 1739523,
+      "kind": "base",
+      "roleId": "Blitz",
+      "displayName": "闪击",
+      "sourceFolder": "角色基础包/Blitz",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-ca6744f733d57827.zip"
+    },
+    {
+      "file": "base-fee8c1a566a96dcd.zip",
+      "bytes": 3851659,
+      "kind": "base",
+      "roleId": "Blue Poison",
+      "displayName": "蓝毒",
+      "sourceFolder": "角色基础包/Blue Poison",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-fee8c1a566a96dcd.zip"
+    },
+    {
+      "file": "base-35bf125758d6ba9d.zip",
+      "bytes": 5389290,
+      "kind": "base",
+      "roleId": "Bobbing",
+      "displayName": "波卜",
+      "sourceFolder": "角色基础包/Bobbing",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-35bf125758d6ba9d.zip"
+    },
+    {
+      "file": "base-b637bc2f6f68850d.zip",
+      "bytes": 3998183,
+      "kind": "base",
+      "roleId": "Breeze",
+      "displayName": "微风",
+      "sourceFolder": "角色基础包/Breeze",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-b637bc2f6f68850d.zip"
+    },
+    {
+      "file": "base-cbfb5e365b29fec8.zip",
+      "bytes": 5298552,
+      "kind": "base",
+      "roleId": "Brigid",
+      "displayName": "水灯心",
+      "sourceFolder": "角色基础包/Brigid",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-cbfb5e365b29fec8.zip"
+    },
+    {
+      "file": "base-432fd9f52a8b79f0.zip",
+      "bytes": 3386454,
+      "kind": "base",
+      "roleId": "Broca",
+      "displayName": "布洛卡",
+      "sourceFolder": "角色基础包/Broca",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-432fd9f52a8b79f0.zip"
+    },
+    {
+      "file": "base-57f8d8eb23e7ad03.zip",
+      "bytes": 4963731,
+      "kind": "base",
+      "roleId": "Bryophyta",
+      "displayName": "苍苔",
+      "sourceFolder": "角色基础包/Bryophyta",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-57f8d8eb23e7ad03.zip"
+    },
+    {
+      "file": "base-77d87b0061d4094d.zip",
+      "bytes": 4135552,
+      "kind": "base",
+      "roleId": "Bubble",
+      "displayName": "泡泡",
+      "sourceFolder": "角色基础包/Bubble",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-77d87b0061d4094d.zip"
+    },
+    {
+      "file": "base-ce36461362e3528c.zip",
+      "bytes": 6249300,
+      "kind": "base",
+      "roleId": "CONFESS-47",
+      "displayName": "CONFESS-47",
+      "sourceFolder": "角色基础包/CONFESS-47",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-ce36461362e3528c.zip"
+    },
+    {
+      "file": "base-b4e06092970e08eb.zip",
+      "bytes": 3670714,
+      "kind": "base",
+      "roleId": "Cairn",
+      "displayName": "响石",
+      "sourceFolder": "角色基础包/Cairn",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-b4e06092970e08eb.zip"
+    },
+    {
+      "file": "base-0b76a84009ef592c.zip",
+      "bytes": 5872710,
+      "kind": "base",
+      "roleId": "Cantabile",
+      "displayName": "晓歌",
+      "sourceFolder": "角色基础包/Cantabile",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-0b76a84009ef592c.zip"
+    },
+    {
+      "file": "base-5ceffae96b11d68c.zip",
+      "bytes": 4809933,
+      "kind": "base",
+      "roleId": "Caper",
+      "displayName": "跃跃",
+      "sourceFolder": "角色基础包/Caper",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-5ceffae96b11d68c.zip"
+    },
+    {
+      "file": "base-8c25ea3e749db218.zip",
+      "bytes": 3524893,
+      "kind": "base",
+      "roleId": "Cardigan",
+      "displayName": "卡缇",
+      "sourceFolder": "角色基础包/Cardigan",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-8c25ea3e749db218.zip"
+    },
+    {
+      "file": "base-8b61162955006115.zip",
+      "bytes": 5576120,
+      "kind": "base",
+      "roleId": "Carnelian",
+      "displayName": "卡涅利安",
+      "sourceFolder": "角色基础包/Carnelian",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-8b61162955006115.zip"
+    },
+    {
+      "file": "base-6c5f56bad02c6b3e.zip",
+      "bytes": 2748503,
+      "kind": "base",
+      "roleId": "Castle-3",
+      "displayName": "Castle-3",
+      "sourceFolder": "角色基础包/Castle-3",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-6c5f56bad02c6b3e.zip"
+    },
+    {
+      "file": "base-21e902d728e9dd2d.zip",
+      "bytes": 3801056,
+      "kind": "base",
+      "roleId": "Catapult",
+      "displayName": "空爆",
+      "sourceFolder": "角色基础包/Catapult",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-21e902d728e9dd2d.zip"
+    },
+    {
+      "file": "base-96f12b28d735c753.zip",
+      "bytes": 3988646,
+      "kind": "base",
+      "roleId": "Catherine",
+      "displayName": "凯瑟琳",
+      "sourceFolder": "角色基础包/Catherine",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-96f12b28d735c753.zip"
+    },
+    {
+      "file": "base-26600a93ebdd733d.zip",
+      "bytes": 4335381,
+      "kind": "base",
+      "roleId": "Cement",
+      "displayName": "洋灰",
+      "sourceFolder": "角色基础包/Cement",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-26600a93ebdd733d.zip"
+    },
+    {
+      "file": "base-5c0aaecc51fb851c.zip",
+      "bytes": 4893688,
+      "kind": "base",
+      "roleId": "Ceobe",
+      "displayName": "刻俄柏",
+      "sourceFolder": "角色基础包/Ceobe",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-5c0aaecc51fb851c.zip"
+    },
+    {
+      "file": "base-a2a07a52d5f91a95.zip",
+      "bytes": 4380863,
+      "kind": "base",
+      "roleId": "Ceylon",
+      "displayName": "锡兰",
+      "sourceFolder": "角色基础包/Ceylon",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-a2a07a52d5f91a95.zip"
+    },
+    {
+      "file": "base-503c294bc1c4908d.zip",
+      "bytes": 3907532,
+      "kind": "base",
+      "roleId": "Ch'en",
+      "displayName": "陈",
+      "sourceFolder": "角色基础包/Ch'en",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-503c294bc1c4908d.zip"
+    },
+    {
+      "file": "base-bf9fc27efc4ea761.zip",
+      "bytes": 5338572,
+      "kind": "base",
+      "roleId": "Ch'en the Dawnstreak",
+      "displayName": "赤刃明霄陈",
+      "sourceFolder": "角色基础包/Ch'en the Dawnstreak",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-bf9fc27efc4ea761.zip"
+    },
+    {
+      "file": "base-5d4e1ec3c77255aa.zip",
+      "bytes": 5722267,
+      "kind": "base",
+      "roleId": "Ch'en the Holungday",
+      "displayName": "假日威龙陈",
+      "sourceFolder": "角色基础包/Ch'en the Holungday",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-5d4e1ec3c77255aa.zip"
+    },
+    {
+      "file": "base-9512f4afb8279641.zip",
+      "bytes": 3385986,
+      "kind": "base",
+      "roleId": "Chestnut",
+      "displayName": "褐果",
+      "sourceFolder": "角色基础包/Chestnut",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-9512f4afb8279641.zip"
+    },
+    {
+      "file": "base-9d56366d9b9893ea.zip",
+      "bytes": 3160434,
+      "kind": "base",
+      "roleId": "Chiave",
+      "displayName": "贾维",
+      "sourceFolder": "角色基础包/Chiave",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-9d56366d9b9893ea.zip"
+    },
+    {
+      "file": "base-48d11b8f8dfef65a.zip",
+      "bytes": 3155136,
+      "kind": "base",
+      "roleId": "Chilchuck",
+      "displayName": "齐尔查克",
+      "sourceFolder": "角色基础包/Chilchuck",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-48d11b8f8dfef65a.zip"
+    },
+    {
+      "file": "base-b176511b53a22b68.zip",
+      "bytes": 7578258,
+      "kind": "base",
+      "roleId": "Chongyue",
+      "displayName": "重岳",
+      "sourceFolder": "角色基础包/Chongyue",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-b176511b53a22b68.zip"
+    },
+    {
+      "file": "base-e957fe67c391bb70.zip",
+      "bytes": 10242127,
+      "kind": "base",
+      "roleId": "Civilight Eterna",
+      "displayName": "魔王",
+      "sourceFolder": "角色基础包/Civilight Eterna",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-e957fe67c391bb70.zip"
+    },
+    {
+      "file": "base-95ba4ed9329f4a25.zip",
+      "bytes": 3782285,
+      "kind": "base",
+      "roleId": "Click",
+      "displayName": "卡达",
+      "sourceFolder": "角色基础包/Click",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-95ba4ed9329f4a25.zip"
+    },
+    {
+      "file": "base-ed9d36ed603bc6dc.zip",
+      "bytes": 3506811,
+      "kind": "base",
+      "roleId": "Cliffheart",
+      "displayName": "崖心",
+      "sourceFolder": "角色基础包/Cliffheart",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-ed9d36ed603bc6dc.zip"
+    },
+    {
+      "file": "base-e90d617d2b55cdbd.zip",
+      "bytes": 5053134,
+      "kind": "base",
+      "roleId": "Closure",
+      "displayName": "可露希尔",
+      "sourceFolder": "角色基础包/Closure",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-e90d617d2b55cdbd.zip"
+    },
+    {
+      "file": "base-2503344b9cc679f2.zip",
+      "bytes": 4953254,
+      "kind": "base",
+      "roleId": "Coldshot",
+      "displayName": "冰酿",
+      "sourceFolder": "角色基础包/Coldshot",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-2503344b9cc679f2.zip"
+    },
+    {
+      "file": "base-3f81f97a3649165c.zip",
+      "bytes": 4819471,
+      "kind": "base",
+      "roleId": "Contrail",
+      "displayName": "云迹",
+      "sourceFolder": "角色基础包/Contrail",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-3f81f97a3649165c.zip"
+    },
+    {
+      "file": "base-52c524ebdde8e2c9.zip",
+      "bytes": 3682771,
+      "kind": "base",
+      "roleId": "Conviction",
+      "displayName": "断罪者",
+      "sourceFolder": "角色基础包/Conviction",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-52c524ebdde8e2c9.zip"
+    },
+    {
+      "file": "base-20fc11584a19ae48.zip",
+      "bytes": 5107324,
+      "kind": "base",
+      "roleId": "Corroserum",
+      "displayName": "蚀清",
+      "sourceFolder": "角色基础包/Corroserum",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-20fc11584a19ae48.zip"
+    },
+    {
+      "file": "base-bbc5df524d41b1e3.zip",
+      "bytes": 3110198,
+      "kind": "base",
+      "roleId": "Courier",
+      "displayName": "讯使",
+      "sourceFolder": "角色基础包/Courier",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-bbc5df524d41b1e3.zip"
+    },
+    {
+      "file": "base-d8067b43a04ec942.zip",
+      "bytes": 4310458,
+      "kind": "base",
+      "roleId": "Crackborne",
+      "displayName": "裂响",
+      "sourceFolder": "角色基础包/Crackborne",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-d8067b43a04ec942.zip"
+    },
+    {
+      "file": "base-f7bf740c0c96de33.zip",
+      "bytes": 3587511,
+      "kind": "base",
+      "roleId": "Croissant",
+      "displayName": "可颂",
+      "sourceFolder": "角色基础包/Croissant",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-f7bf740c0c96de33.zip"
+    },
+    {
+      "file": "base-7110b51641c0adf6.zip",
+      "bytes": 5570435,
+      "kind": "base",
+      "roleId": "Crownslayer",
+      "displayName": "弑君者",
+      "sourceFolder": "角色基础包/Crownslayer",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-7110b51641c0adf6.zip"
+    },
+    {
+      "file": "base-a55acad848567a17.zip",
+      "bytes": 3766011,
+      "kind": "base",
+      "roleId": "Cuora",
+      "displayName": "蛇屠箱",
+      "sourceFolder": "角色基础包/Cuora",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-a55acad848567a17.zip"
+    },
+    {
+      "file": "base-1a434e36818416cf.zip",
+      "bytes": 4178551,
+      "kind": "base",
+      "roleId": "Cutter",
+      "displayName": "刻刀",
+      "sourceFolder": "角色基础包/Cutter",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-1a434e36818416cf.zip"
+    },
+    {
+      "file": "base-702bf0617d2ddb78.zip",
+      "bytes": 4297690,
+      "kind": "base",
+      "roleId": "Czerny",
+      "displayName": "车尔尼",
+      "sourceFolder": "角色基础包/Czerny",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-702bf0617d2ddb78.zip"
+    },
+    {
+      "file": "base-838ed55be21b2472.zip",
+      "bytes": 3608609,
+      "kind": "base",
+      "roleId": "Dagda",
+      "displayName": "达格达",
+      "sourceFolder": "角色基础包/Dagda",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-838ed55be21b2472.zip"
+    },
+    {
+      "file": "base-fb71a9db0dc85be8.zip",
+      "bytes": 2758751,
+      "kind": "base",
+      "roleId": "Deepcolor",
+      "displayName": "深海色",
+      "sourceFolder": "角色基础包/Deepcolor",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-fb71a9db0dc85be8.zip"
+    },
+    {
+      "file": "base-9073f3e1e2b6b249.zip",
+      "bytes": 4866841,
+      "kind": "base",
+      "roleId": "Degenbrecher",
+      "displayName": "锏",
+      "sourceFolder": "角色基础包/Degenbrecher",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-9073f3e1e2b6b249.zip"
+    },
+    {
+      "file": "base-332662390483642c.zip",
+      "bytes": 4846476,
+      "kind": "base",
+      "roleId": "Delphine",
+      "displayName": "戴菲恩",
+      "sourceFolder": "角色基础包/Delphine",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-332662390483642c.zip"
+    },
+    {
+      "file": "base-376c5481985ed71f.zip",
+      "bytes": 5086199,
+      "kind": "base",
+      "roleId": "Diamante",
+      "displayName": "折光",
+      "sourceFolder": "角色基础包/Diamante",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-376c5481985ed71f.zip"
+    },
+    {
+      "file": "base-62429169a3ed66a8.zip",
+      "bytes": 2662438,
+      "kind": "base",
+      "roleId": "Dobermann",
+      "displayName": "杜宾",
+      "sourceFolder": "角色基础包/Dobermann",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-62429169a3ed66a8.zip"
+    },
+    {
+      "file": "base-49f4e57c2625d4ae.zip",
+      "bytes": 2102414,
+      "kind": "base",
+      "roleId": "Doc",
+      "displayName": "医生",
+      "sourceFolder": "角色基础包/Doc",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-49f4e57c2625d4ae.zip"
+    },
+    {
+      "file": "base-0d98d78bdba916ee.zip",
+      "bytes": 5728941,
+      "kind": "base",
+      "roleId": "Dorothy",
+      "displayName": "多萝西",
+      "sourceFolder": "角色基础包/Dorothy",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-0d98d78bdba916ee.zip"
+    },
+    {
+      "file": "base-248893ce83d3a78c.zip",
+      "bytes": 3339914,
+      "kind": "base",
+      "roleId": "Dur-nar",
+      "displayName": "坚雷",
+      "sourceFolder": "角色基础包/Dur-nar",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-248893ce83d3a78c.zip"
+    },
+    {
+      "file": "base-d569ac519654908a.zip",
+      "bytes": 2321324,
+      "kind": "base",
+      "roleId": "Durin",
+      "displayName": "杜林",
+      "sourceFolder": "角色基础包/Durin",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-d569ac519654908a.zip"
+    },
+    {
+      "file": "base-abd7160c1f46a064.zip",
+      "bytes": 10581814,
+      "kind": "base",
+      "roleId": "Dusk",
+      "displayName": "夕",
+      "sourceFolder": "角色基础包/Dusk",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-abd7160c1f46a064.zip"
+    },
+    {
+      "file": "base-fb475ebe9254dcad.zip",
+      "bytes": 2778026,
+      "kind": "base",
+      "roleId": "Earthspirit",
+      "displayName": "地灵",
+      "sourceFolder": "角色基础包/Earthspirit",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-fb475ebe9254dcad.zip"
+    },
+    {
+      "file": "base-805d9e3cce34b98b.zip",
+      "bytes": 5356097,
+      "kind": "base",
+      "roleId": "Ebenholz",
+      "displayName": "黑键",
+      "sourceFolder": "角色基础包/Ebenholz",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-805d9e3cce34b98b.zip"
+    },
+    {
+      "file": "base-e65b73da8397c96b.zip",
+      "bytes": 2924360,
+      "kind": "base",
+      "roleId": "Ela",
+      "displayName": "艾拉",
+      "sourceFolder": "角色基础包/Ela",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-e65b73da8397c96b.zip"
+    },
+    {
+      "file": "base-8cf29d31a47dc15d.zip",
+      "bytes": 4719745,
+      "kind": "base",
+      "roleId": "Elysium",
+      "displayName": "极境",
+      "sourceFolder": "角色基础包/Elysium",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-8cf29d31a47dc15d.zip"
+    },
+    {
+      "file": "base-1c55fd3fab4eb304.zip",
+      "bytes": 4841392,
+      "kind": "base",
+      "roleId": "Enforcer",
+      "displayName": "见行者",
+      "sourceFolder": "角色基础包/Enforcer",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-1c55fd3fab4eb304.zip"
+    },
+    {
+      "file": "base-128a68cea437a8a8.zip",
+      "bytes": 5921781,
+      "kind": "base",
+      "roleId": "Entelechia",
+      "displayName": "隐德来希",
+      "sourceFolder": "角色基础包/Entelechia",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-128a68cea437a8a8.zip"
+    },
+    {
+      "file": "base-e3482b11bf09803c.zip",
+      "bytes": 5663962,
+      "kind": "base",
+      "roleId": "Erato",
+      "displayName": "埃拉托",
+      "sourceFolder": "角色基础包/Erato",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-e3482b11bf09803c.zip"
+    },
+    {
+      "file": "base-76a90abd63ce5f38.zip",
+      "bytes": 4016505,
+      "kind": "base",
+      "roleId": "Estelle",
+      "displayName": "艾丝黛尔",
+      "sourceFolder": "角色基础包/Estelle",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-76a90abd63ce5f38.zip"
+    },
+    {
+      "file": "base-13ae3ed6fe76d459.zip",
+      "bytes": 3537114,
+      "kind": "base",
+      "roleId": "Ethan",
+      "displayName": "伊桑",
+      "sourceFolder": "角色基础包/Ethan",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-13ae3ed6fe76d459.zip"
+    },
+    {
+      "file": "base-d34151bd6a3324d6.zip",
+      "bytes": 4538336,
+      "kind": "base",
+      "roleId": "Eunectes",
+      "displayName": "森蚺",
+      "sourceFolder": "角色基础包/Eunectes",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-d34151bd6a3324d6.zip"
+    },
+    {
+      "file": "base-bb186757b4bf06e9.zip",
+      "bytes": 3894064,
+      "kind": "base",
+      "roleId": "Executor",
+      "displayName": "送葬人",
+      "sourceFolder": "角色基础包/Executor",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-bb186757b4bf06e9.zip"
+    },
+    {
+      "file": "base-b292b4db9ae598f1.zip",
+      "bytes": 7559647,
+      "kind": "base",
+      "roleId": "Executor the Ex Foedere",
+      "displayName": "圣约送葬人",
+      "sourceFolder": "角色基础包/Executor the Ex Foedere",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-b292b4db9ae598f1.zip"
+    },
+    {
+      "file": "base-96de71a4a2963373.zip",
+      "bytes": 5975880,
+      "kind": "base",
+      "roleId": "Exusiai",
+      "displayName": "能天使",
+      "sourceFolder": "角色基础包/Exusiai",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-96de71a4a2963373.zip"
+    },
+    {
+      "file": "base-430f940f1ff1c5c2.zip",
+      "bytes": 8240153,
+      "kind": "base",
+      "roleId": "Exusiai the New Covenant",
+      "displayName": "新约能天使",
+      "sourceFolder": "角色基础包/Exusiai the New Covenant",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-430f940f1ff1c5c2.zip"
+    },
+    {
+      "file": "base-5e75323322a7df94.zip",
+      "bytes": 6967004,
+      "kind": "base",
+      "roleId": "Eyjafjalla",
+      "displayName": "艾雅法拉",
+      "sourceFolder": "角色基础包/Eyjafjalla",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-5e75323322a7df94.zip"
+    },
+    {
+      "file": "base-aa8c9fab8234a329.zip",
+      "bytes": 11128783,
+      "kind": "base",
+      "roleId": "Eyjafjalla the Hvít Aska",
+      "displayName": "纯烬艾雅法拉",
+      "sourceFolder": "角色基础包/Eyjafjalla the Hvít Aska",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-aa8c9fab8234a329.zip"
+    },
+    {
+      "file": "base-4ee80919231ab215.zip",
+      "bytes": 4939984,
+      "kind": "base",
+      "roleId": "FEater",
+      "displayName": "食铁兽",
+      "sourceFolder": "角色基础包/FEater",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-4ee80919231ab215.zip"
+    },
+    {
+      "file": "base-f1e508c4582c09cd.zip",
+      "bytes": 2505956,
+      "kind": "base",
+      "roleId": "Fang",
+      "displayName": "芬",
+      "sourceFolder": "角色基础包/Fang",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-f1e508c4582c09cd.zip"
+    },
+    {
+      "file": "base-0f5f12655aa995ad.zip",
+      "bytes": 3723910,
+      "kind": "base",
+      "roleId": "Fang the Fire-sharpened",
+      "displayName": "历阵锐枪芬",
+      "sourceFolder": "角色基础包/Fang the Fire-sharpened",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-0f5f12655aa995ad.zip"
+    },
+    {
+      "file": "base-7b6afc7f7fe9dd21.zip",
+      "bytes": 4391918,
+      "kind": "base",
+      "roleId": "Fartooth",
+      "displayName": "远牙",
+      "sourceFolder": "角色基础包/Fartooth",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-7b6afc7f7fe9dd21.zip"
+    },
+    {
+      "file": "base-9286de10b60706ac.zip",
+      "bytes": 5924732,
+      "kind": "base",
+      "roleId": "Fiammetta",
+      "displayName": "菲亚梅塔",
+      "sourceFolder": "角色基础包/Fiammetta",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-9286de10b60706ac.zip"
+    },
+    {
+      "file": "base-44e27175907cf14f.zip",
+      "bytes": 4690327,
+      "kind": "base",
+      "roleId": "Figurino",
+      "displayName": "裁度",
+      "sourceFolder": "角色基础包/Figurino",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-44e27175907cf14f.zip"
+    },
+    {
+      "file": "base-b557bb1d577e6f04.zip",
+      "bytes": 3005544,
+      "kind": "base",
+      "roleId": "Firewatch",
+      "displayName": "守林人",
+      "sourceFolder": "角色基础包/Firewatch",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-b557bb1d577e6f04.zip"
+    },
+    {
+      "file": "base-f35fbccc7d84272a.zip",
+      "bytes": 4335844,
+      "kind": "base",
+      "roleId": "Firewhistle",
+      "displayName": "火哨",
+      "sourceFolder": "角色基础包/Firewhistle",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-f35fbccc7d84272a.zip"
+    },
+    {
+      "file": "base-a538ced596cdb83f.zip",
+      "bytes": 4182303,
+      "kind": "base",
+      "roleId": "Flamebringer",
+      "displayName": "炎客",
+      "sourceFolder": "角色基础包/Flamebringer",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-a538ced596cdb83f.zip"
+    },
+    {
+      "file": "base-cf4981b5efb4cec5.zip",
+      "bytes": 4976634,
+      "kind": "base",
+      "roleId": "Flametail",
+      "displayName": "焰尾",
+      "sourceFolder": "角色基础包/Flametail",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-cf4981b5efb4cec5.zip"
+    },
+    {
+      "file": "base-4cbbe5b839033a5b.zip",
+      "bytes": 4846376,
+      "kind": "base",
+      "roleId": "Flint",
+      "displayName": "燧石",
+      "sourceFolder": "角色基础包/Flint",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-4cbbe5b839033a5b.zip"
+    },
+    {
+      "file": "base-3582c1eab05c265c.zip",
+      "bytes": 3372805,
+      "kind": "base",
+      "roleId": "Folinic",
+      "displayName": "亚叶",
+      "sourceFolder": "角色基础包/Folinic",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-3582c1eab05c265c.zip"
+    },
+    {
+      "file": "base-75126a7d8908fd33.zip",
+      "bytes": 3249700,
+      "kind": "base",
+      "roleId": "Franka",
+      "displayName": "芙兰卡",
+      "sourceFolder": "角色基础包/Franka",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-75126a7d8908fd33.zip"
+    },
+    {
+      "file": "base-dea3fccc0e349ef7.zip",
+      "bytes": 3168416,
+      "kind": "base",
+      "roleId": "Friston-3",
+      "displayName": "Friston-3",
+      "sourceFolder": "角色基础包/Friston-3",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-dea3fccc0e349ef7.zip"
+    },
+    {
+      "file": "base-17636dd620d730ae.zip",
+      "bytes": 1421985,
+      "kind": "base",
+      "roleId": "Frost",
+      "displayName": "霜华",
+      "sourceFolder": "角色基础包/Frost",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-17636dd620d730ae.zip"
+    },
+    {
+      "file": "base-8fd31e57e0cce85c.zip",
+      "bytes": 2600481,
+      "kind": "base",
+      "roleId": "Frostleaf",
+      "displayName": "霜叶",
+      "sourceFolder": "角色基础包/Frostleaf",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-8fd31e57e0cce85c.zip"
+    },
+    {
+      "file": "base-35f243d9e0f6b26e.zip",
+      "bytes": 1843354,
+      "kind": "base",
+      "roleId": "Fuze",
+      "displayName": "导火索",
+      "sourceFolder": "角色基础包/Fuze",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-35f243d9e0f6b26e.zip"
+    },
+    {
+      "file": "base-9984aaae081fcb80.zip",
+      "bytes": 4265367,
+      "kind": "base",
+      "roleId": "GALLUS²",
+      "displayName": "GALLUS²",
+      "sourceFolder": "角色基础包/GALLUS²",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-9984aaae081fcb80.zip"
+    },
+    {
+      "file": "base-5e2d38e95295e75c.zip",
+      "bytes": 2623080,
+      "kind": "base",
+      "roleId": "Gavial",
+      "displayName": "嘉维尔",
+      "sourceFolder": "角色基础包/Gavial",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-5e2d38e95295e75c.zip"
+    },
+    {
+      "file": "base-ab1ae7721c47ec7e.zip",
+      "bytes": 4988791,
+      "kind": "base",
+      "roleId": "Gavial the Invincible",
+      "displayName": "百炼嘉维尔",
+      "sourceFolder": "角色基础包/Gavial the Invincible",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-ab1ae7721c47ec7e.zip"
+    },
+    {
+      "file": "base-b8d611d92225efbd.zip",
+      "bytes": 3518412,
+      "kind": "base",
+      "roleId": "Gitano",
+      "displayName": "远山",
+      "sourceFolder": "角色基础包/Gitano",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-b8d611d92225efbd.zip"
+    },
+    {
+      "file": "base-f857fd2b8b444437.zip",
+      "bytes": 7801985,
+      "kind": "base",
+      "roleId": "Gladiia",
+      "displayName": "歌蕾蒂娅",
+      "sourceFolder": "角色基础包/Gladiia",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-f857fd2b8b444437.zip"
+    },
+    {
+      "file": "base-22113d03046f588d.zip",
+      "bytes": 3695663,
+      "kind": "base",
+      "roleId": "Glaucus",
+      "displayName": "格劳克斯",
+      "sourceFolder": "角色基础包/Glaucus",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-22113d03046f588d.zip"
+    },
+    {
+      "file": "base-cdfdd89abfd198f0.zip",
+      "bytes": 3936732,
+      "kind": "base",
+      "roleId": "Gnosis",
+      "displayName": "灵知",
+      "sourceFolder": "角色基础包/Gnosis",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-cdfdd89abfd198f0.zip"
+    },
+    {
+      "file": "base-66f3f50a0f3da0cd.zip",
+      "bytes": 9360890,
+      "kind": "base",
+      "roleId": "Goldenglow",
+      "displayName": "澄闪",
+      "sourceFolder": "角色基础包/Goldenglow",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-66f3f50a0f3da0cd.zip"
+    },
+    {
+      "file": "base-b64247323306aef0.zip",
+      "bytes": 7446006,
+      "kind": "base",
+      "roleId": "Gracebearer",
+      "displayName": "聆音",
+      "sourceFolder": "角色基础包/Gracebearer",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-b64247323306aef0.zip"
+    },
+    {
+      "file": "base-a96bbf18b1fc4412.zip",
+      "bytes": 5181878,
+      "kind": "base",
+      "roleId": "Grain Buds",
+      "displayName": "小满",
+      "sourceFolder": "角色基础包/Grain Buds",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-a96bbf18b1fc4412.zip"
+    },
+    {
+      "file": "base-e108d5d81d23d286.zip",
+      "bytes": 3748465,
+      "kind": "base",
+      "roleId": "Grani",
+      "displayName": "格拉尼",
+      "sourceFolder": "角色基础包/Grani",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-e108d5d81d23d286.zip"
+    },
+    {
+      "file": "base-1df7b3d338fdd6d3.zip",
+      "bytes": 3457353,
+      "kind": "base",
+      "roleId": "Gravel",
+      "displayName": "砾",
+      "sourceFolder": "角色基础包/Gravel",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-1df7b3d338fdd6d3.zip"
+    },
+    {
+      "file": "base-4221515d0e5ac487.zip",
+      "bytes": 4703969,
+      "kind": "base",
+      "roleId": "GreyThroat",
+      "displayName": "灰喉",
+      "sourceFolder": "角色基础包/GreyThroat",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-4221515d0e5ac487.zip"
+    },
+    {
+      "file": "base-d2182b9ba5ba8aea.zip",
+      "bytes": 4165609,
+      "kind": "base",
+      "roleId": "Greyy",
+      "displayName": "格雷伊",
+      "sourceFolder": "角色基础包/Greyy",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-d2182b9ba5ba8aea.zip"
+    },
+    {
+      "file": "base-3b84f6e88b10f356.zip",
+      "bytes": 6874344,
+      "kind": "base",
+      "roleId": "Greyy the Lightningbearer",
+      "displayName": "承曦格雷伊",
+      "sourceFolder": "角色基础包/Greyy the Lightningbearer",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-3b84f6e88b10f356.zip"
+    },
+    {
+      "file": "base-c4e0e0e25c188d01.zip",
+      "bytes": 3610067,
+      "kind": "base",
+      "roleId": "Hadiya",
+      "displayName": "哈蒂娅",
+      "sourceFolder": "角色基础包/Hadiya",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-c4e0e0e25c188d01.zip"
+    },
+    {
+      "file": "base-618dfe1385e3fb3b.zip",
+      "bytes": 4388916,
+      "kind": "base",
+      "roleId": "Harmonie",
+      "displayName": "和弦",
+      "sourceFolder": "角色基础包/Harmonie",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-618dfe1385e3fb3b.zip"
+    },
+    {
+      "file": "base-00b45a02087007c3.zip",
+      "bytes": 5792628,
+      "kind": "base",
+      "roleId": "Harold",
+      "displayName": "哈洛德",
+      "sourceFolder": "角色基础包/Harold",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-00b45a02087007c3.zip"
+    },
+    {
+      "file": "base-3b001de367575133.zip",
+      "bytes": 9711485,
+      "kind": "base",
+      "roleId": "Haruka",
+      "displayName": "遥",
+      "sourceFolder": "角色基础包/Haruka",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-3b001de367575133.zip"
+    },
+    {
+      "file": "base-577ad4d66a5a9c26.zip",
+      "bytes": 3840714,
+      "kind": "base",
+      "roleId": "Haze",
+      "displayName": "夜烟",
+      "sourceFolder": "角色基础包/Haze",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-577ad4d66a5a9c26.zip"
+    },
+    {
+      "file": "base-a84daff6362952ae.zip",
+      "bytes": 3891172,
+      "kind": "base",
+      "roleId": "Heavyrain",
+      "displayName": "暴雨",
+      "sourceFolder": "角色基础包/Heavyrain",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-a84daff6362952ae.zip"
+    },
+    {
+      "file": "base-3b580a08ba9ee0f7.zip",
+      "bytes": 5105364,
+      "kind": "base",
+      "roleId": "Heidi",
+      "displayName": "海蒂",
+      "sourceFolder": "角色基础包/Heidi",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-3b580a08ba9ee0f7.zip"
+    },
+    {
+      "file": "base-1dc93ec850d16aea.zip",
+      "bytes": 4676370,
+      "kind": "base",
+      "roleId": "Hellagur",
+      "displayName": "赫拉格",
+      "sourceFolder": "角色基础包/Hellagur",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-1dc93ec850d16aea.zip"
+    },
+    {
+      "file": "base-b47a49efd2ed642c.zip",
+      "bytes": 2861673,
+      "kind": "base",
+      "roleId": "Hibiscus",
+      "displayName": "芙蓉",
+      "sourceFolder": "角色基础包/Hibiscus",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-b47a49efd2ed642c.zip"
+    },
+    {
+      "file": "base-ba1913c0e65c93f4.zip",
+      "bytes": 4717690,
+      "kind": "base",
+      "roleId": "Hibiscus the Purifier",
+      "displayName": "濯尘芙蓉",
+      "sourceFolder": "角色基础包/Hibiscus the Purifier",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-ba1913c0e65c93f4.zip"
+    },
+    {
+      "file": "base-6222ee0534bec48d.zip",
+      "bytes": 5763573,
+      "kind": "base",
+      "roleId": "Highmore",
+      "displayName": "海沫",
+      "sourceFolder": "角色基础包/Highmore",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-6222ee0534bec48d.zip"
+    },
+    {
+      "file": "base-75906861c052b7c2.zip",
+      "bytes": 6667710,
+      "kind": "base",
+      "roleId": "Ho'olheyak",
+      "displayName": "霍尔海雅",
+      "sourceFolder": "角色基础包/Ho'olheyak",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-75906861c052b7c2.zip"
+    },
+    {
+      "file": "base-6cf40b5721990b17.zip",
+      "bytes": 4724400,
+      "kind": "base",
+      "roleId": "Hoederer",
+      "displayName": "赫德雷",
+      "sourceFolder": "角色基础包/Hoederer",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-6cf40b5721990b17.zip"
+    },
+    {
+      "file": "base-881a34bc20b73530.zip",
+      "bytes": 5030211,
+      "kind": "base",
+      "roleId": "Honeyberry",
+      "displayName": "蜜莓",
+      "sourceFolder": "角色基础包/Honeyberry",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-881a34bc20b73530.zip"
+    },
+    {
+      "file": "base-9ebf503462b39881.zip",
+      "bytes": 5383564,
+      "kind": "base",
+      "roleId": "Horn",
+      "displayName": "号角",
+      "sourceFolder": "角色基础包/Horn",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-9ebf503462b39881.zip"
+    },
+    {
+      "file": "base-ba6bacc6579dc425.zip",
+      "bytes": 4007157,
+      "kind": "base",
+      "roleId": "Hoshiguma",
+      "displayName": "星熊",
+      "sourceFolder": "角色基础包/Hoshiguma",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-ba6bacc6579dc425.zip"
+    },
+    {
+      "file": "base-135d88ff4f2c8c1d.zip",
+      "bytes": 8941378,
+      "kind": "base",
+      "roleId": "Hoshiguma the Breacher",
+      "displayName": "斩业星熊",
+      "sourceFolder": "角色基础包/Hoshiguma the Breacher",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-135d88ff4f2c8c1d.zip"
+    },
+    {
+      "file": "base-80086f08c18435f2.zip",
+      "bytes": 4402822,
+      "kind": "base",
+      "roleId": "Humus",
+      "displayName": "休谟斯",
+      "sourceFolder": "角色基础包/Humus",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-80086f08c18435f2.zip"
+    },
+    {
+      "file": "base-6cb0092c852063e3.zip",
+      "bytes": 3757683,
+      "kind": "base",
+      "roleId": "Hung",
+      "displayName": "吽",
+      "sourceFolder": "角色基础包/Hung",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-6cb0092c852063e3.zip"
+    },
+    {
+      "file": "base-7967b12120596307.zip",
+      "bytes": 2792752,
+      "kind": "base",
+      "roleId": "Iana",
+      "displayName": "双月",
+      "sourceFolder": "角色基础包/Iana",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-7967b12120596307.zip"
+    },
+    {
+      "file": "base-0eb97dbb810b078a.zip",
+      "bytes": 4655751,
+      "kind": "base",
+      "roleId": "Ifrit",
+      "displayName": "伊芙利特",
+      "sourceFolder": "角色基础包/Ifrit",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-0eb97dbb810b078a.zip"
+    },
+    {
+      "file": "base-d81ab149e9771d94.zip",
+      "bytes": 4772406,
+      "kind": "base",
+      "roleId": "Indigo",
+      "displayName": "深靛",
+      "sourceFolder": "角色基础包/Indigo",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-d81ab149e9771d94.zip"
+    },
+    {
+      "file": "base-4cce8b25488a59b7.zip",
+      "bytes": 2838108,
+      "kind": "base",
+      "roleId": "Indra",
+      "displayName": "因陀罗",
+      "sourceFolder": "角色基础包/Indra",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-4cce8b25488a59b7.zip"
+    },
+    {
+      "file": "base-c3ef02333f92b8d9.zip",
+      "bytes": 9603163,
+      "kind": "base",
+      "roleId": "Ines",
+      "displayName": "伊内丝",
+      "sourceFolder": "角色基础包/Ines",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-c3ef02333f92b8d9.zip"
+    },
+    {
+      "file": "base-55961fd8c5a2a87c.zip",
+      "bytes": 4758727,
+      "kind": "base",
+      "roleId": "Insider",
+      "displayName": "隐现",
+      "sourceFolder": "角色基础包/Insider",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-55961fd8c5a2a87c.zip"
+    },
+    {
+      "file": "base-d4bbc5043503b9ae.zip",
+      "bytes": 5761327,
+      "kind": "base",
+      "roleId": "Irene",
+      "displayName": "艾丽妮",
+      "sourceFolder": "角色基础包/Irene",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-d4bbc5043503b9ae.zip"
+    },
+    {
+      "file": "base-65003c7a186430e8.zip",
+      "bytes": 5004793,
+      "kind": "base",
+      "roleId": "Iris",
+      "displayName": "爱丽丝",
+      "sourceFolder": "角色基础包/Iris",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-65003c7a186430e8.zip"
+    },
+    {
+      "file": "base-86932b9ed9621180.zip",
+      "bytes": 5562679,
+      "kind": "base",
+      "roleId": "Jacinta",
+      "displayName": "嘉辛塔",
+      "sourceFolder": "角色基础包/Jacinta",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-86932b9ed9621180.zip"
+    },
+    {
+      "file": "base-07b2c0146e1fec40.zip",
+      "bytes": 4274612,
+      "kind": "base",
+      "roleId": "Jackie",
+      "displayName": "杰克",
+      "sourceFolder": "角色基础包/Jackie",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-07b2c0146e1fec40.zip"
+    },
+    {
+      "file": "base-42dd77693cef8c3e.zip",
+      "bytes": 3579543,
+      "kind": "base",
+      "roleId": "Jaye",
+      "displayName": "孑",
+      "sourceFolder": "角色基础包/Jaye",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-42dd77693cef8c3e.zip"
+    },
+    {
+      "file": "base-fb338e53da57ec89.zip",
+      "bytes": 4014009,
+      "kind": "base",
+      "roleId": "Jessica",
+      "displayName": "杰西卡",
+      "sourceFolder": "角色基础包/Jessica",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-fb338e53da57ec89.zip"
+    },
+    {
+      "file": "base-3beca9e5f8ef5514.zip",
+      "bytes": 5555718,
+      "kind": "base",
+      "roleId": "Jessica the Liberated",
+      "displayName": "涤火杰西卡",
+      "sourceFolder": "角色基础包/Jessica the Liberated",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-3beca9e5f8ef5514.zip"
+    },
+    {
+      "file": "base-c0b583ccdc54e72b.zip",
+      "bytes": 4777495,
+      "kind": "base",
+      "roleId": "Jieyun",
+      "displayName": "截云",
+      "sourceFolder": "角色基础包/Jieyun",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-c0b583ccdc54e72b.zip"
+    },
+    {
+      "file": "base-8bc597b569e32076.zip",
+      "bytes": 5996479,
+      "kind": "base",
+      "roleId": "Ju",
+      "displayName": "矩",
+      "sourceFolder": "角色基础包/Ju",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-8bc597b569e32076.zip"
+    },
+    {
+      "file": "base-e4a5f92fd340ecce.zip",
+      "bytes": 4343498,
+      "kind": "base",
+      "roleId": "Kafka",
+      "displayName": "卡夫卡",
+      "sourceFolder": "角色基础包/Kafka",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-e4a5f92fd340ecce.zip"
+    },
+    {
+      "file": "base-c571bef9245737a8.zip",
+      "bytes": 9545853,
+      "kind": "base",
+      "roleId": "Kal'tsit",
+      "displayName": "凯尔希",
+      "sourceFolder": "角色基础包/Kal'tsit",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-c571bef9245737a8.zip"
+    },
+    {
+      "file": "base-57442f6dfb839766.zip",
+      "bytes": 4995245,
+      "kind": "base",
+      "roleId": "Kal'tsit·Esperanta",
+      "displayName": "凯尔希·思衡托",
+      "sourceFolder": "角色基础包/Kal'tsit·Esperanta",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-57442f6dfb839766.zip"
+    },
+    {
+      "file": "base-f5534cb28608769a.zip",
+      "bytes": 4981364,
+      "kind": "base",
+      "roleId": "Kazemaru",
+      "displayName": "风丸",
+      "sourceFolder": "角色基础包/Kazemaru",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-f5534cb28608769a.zip"
+    },
+    {
+      "file": "base-b48cde19e3b69408.zip",
+      "bytes": 4322668,
+      "kind": "base",
+      "roleId": "Kestrel",
+      "displayName": "红隼",
+      "sourceFolder": "角色基础包/Kestrel",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-b48cde19e3b69408.zip"
+    },
+    {
+      "file": "base-740c3258f8afaa5f.zip",
+      "bytes": 4294631,
+      "kind": "base",
+      "roleId": "Kichisei",
+      "displayName": "吉星",
+      "sourceFolder": "角色基础包/Kichisei",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-740c3258f8afaa5f.zip"
+    },
+    {
+      "file": "base-1a61ca3798e00e81.zip",
+      "bytes": 5044512,
+      "kind": "base",
+      "roleId": "Kirara",
+      "displayName": "绮良",
+      "sourceFolder": "角色基础包/Kirara",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-1a61ca3798e00e81.zip"
+    },
+    {
+      "file": "base-2cc8445d9d52e5b6.zip",
+      "bytes": 4237214,
+      "kind": "base",
+      "roleId": "Kirin R Yato",
+      "displayName": "麒麟R夜刀",
+      "sourceFolder": "角色基础包/Kirin R Yato",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-2cc8445d9d52e5b6.zip"
+    },
+    {
+      "file": "base-cb12cd9f39b44296.zip",
+      "bytes": 4586205,
+      "kind": "base",
+      "roleId": "Kjera",
+      "displayName": "耶拉",
+      "sourceFolder": "角色基础包/Kjera",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-cb12cd9f39b44296.zip"
+    },
+    {
+      "file": "base-e59eeff368ff8878.zip",
+      "bytes": 3092256,
+      "kind": "base",
+      "roleId": "Koromaru",
+      "displayName": "虎狼丸",
+      "sourceFolder": "角色基础包/Koromaru",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-e59eeff368ff8878.zip"
+    },
+    {
+      "file": "base-3752e229af665955.zip",
+      "bytes": 3768282,
+      "kind": "base",
+      "roleId": "Kroos",
+      "displayName": "克洛丝",
+      "sourceFolder": "角色基础包/Kroos",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-3752e229af665955.zip"
+    },
+    {
+      "file": "base-1da9f3cd8a7286c6.zip",
+      "bytes": 5168964,
+      "kind": "base",
+      "roleId": "Kroos the Keen Glint",
+      "displayName": "寒芒克洛丝",
+      "sourceFolder": "角色基础包/Kroos the Keen Glint",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-1da9f3cd8a7286c6.zip"
+    },
+    {
+      "file": "base-8ab27d931bce1c73.zip",
+      "bytes": 3481959,
+      "kind": "base",
+      "roleId": "La Pluma",
+      "displayName": "羽毛笔",
+      "sourceFolder": "角色基础包/La Pluma",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-8ab27d931bce1c73.zip"
+    },
+    {
+      "file": "base-36c57e941dfab0e9.zip",
+      "bytes": 4019848,
+      "kind": "base",
+      "roleId": "Laios",
+      "displayName": "莱欧斯",
+      "sourceFolder": "角色基础包/Laios",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-36c57e941dfab0e9.zip"
+    },
+    {
+      "file": "base-a48e533e59b324ad.zip",
+      "bytes": 3247047,
+      "kind": "base",
+      "roleId": "Lancet-2",
+      "displayName": "Lancet-2",
+      "sourceFolder": "角色基础包/Lancet-2",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-a48e533e59b324ad.zip"
+    },
+    {
+      "file": "base-e00d283c8b98696d.zip",
+      "bytes": 4194882,
+      "kind": "base",
+      "roleId": "Lappland",
+      "displayName": "拉普兰德",
+      "sourceFolder": "角色基础包/Lappland",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-e00d283c8b98696d.zip"
+    },
+    {
+      "file": "base-cb20aa5a2bc3a66b.zip",
+      "bytes": 6811215,
+      "kind": "base",
+      "roleId": "Lappland the Decadenza",
+      "displayName": "荒芜拉普兰德",
+      "sourceFolder": "角色基础包/Lappland the Decadenza",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-cb20aa5a2bc3a66b.zip"
+    },
+    {
+      "file": "base-09541df867b71f0f.zip",
+      "bytes": 2741448,
+      "kind": "base",
+      "roleId": "Lava",
+      "displayName": "炎熔",
+      "sourceFolder": "角色基础包/Lava",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-09541df867b71f0f.zip"
+    },
+    {
+      "file": "base-0159effcd143b584.zip",
+      "bytes": 5273457,
+      "kind": "base",
+      "roleId": "Lava the Purgatory",
+      "displayName": "炎狱炎熔",
+      "sourceFolder": "角色基础包/Lava the Purgatory",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-0159effcd143b584.zip"
+    },
+    {
+      "file": "base-e7da824a74f63dca.zip",
+      "bytes": 8607277,
+      "kind": "base",
+      "roleId": "Lee",
+      "displayName": "老鲤",
+      "sourceFolder": "角色基础包/Lee",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-e7da824a74f63dca.zip"
+    },
+    {
+      "file": "base-1a71712a72bd4d0c.zip",
+      "bytes": 5269237,
+      "kind": "base",
+      "roleId": "Leizi",
+      "displayName": "惊蛰",
+      "sourceFolder": "角色基础包/Leizi",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-1a71712a72bd4d0c.zip"
+    },
+    {
+      "file": "base-9546b05f442ace20.zip",
+      "bytes": 6757803,
+      "kind": "base",
+      "roleId": "Leizi the Thunderbringer",
+      "displayName": "司霆惊蛰",
+      "sourceFolder": "角色基础包/Leizi the Thunderbringer",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-9546b05f442ace20.zip"
+    },
+    {
+      "file": "base-6651861323576047.zip",
+      "bytes": 8536500,
+      "kind": "base",
+      "roleId": "Lemuen",
+      "displayName": "蕾缪安",
+      "sourceFolder": "角色基础包/Lemuen",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-6651861323576047.zip"
+    },
+    {
+      "file": "base-ac5e65cec74a5c68.zip",
+      "bytes": 5479484,
+      "kind": "base",
+      "roleId": "Leonhardt",
+      "displayName": "莱恩哈特",
+      "sourceFolder": "角色基础包/Leonhardt",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-ac5e65cec74a5c68.zip"
+    },
+    {
+      "file": "base-683e53d57e391568.zip",
+      "bytes": 3843235,
+      "kind": "base",
+      "roleId": "Lessing",
+      "displayName": "止颂",
+      "sourceFolder": "角色基础包/Lessing",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-683e53d57e391568.zip"
+    },
+    {
+      "file": "base-021f5e21867593e4.zip",
+      "bytes": 8264552,
+      "kind": "base",
+      "roleId": "Lin",
+      "displayName": "林",
+      "sourceFolder": "角色基础包/Lin",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-021f5e21867593e4.zip"
+    },
+    {
+      "file": "base-02df5daf97425994.zip",
+      "bytes": 8541056,
+      "kind": "base",
+      "roleId": "Ling",
+      "displayName": "令",
+      "sourceFolder": "角色基础包/Ling",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-02df5daf97425994.zip"
+    },
+    {
+      "file": "base-41afb5e8f69183a4.zip",
+      "bytes": 3357374,
+      "kind": "base",
+      "roleId": "Liskarm",
+      "displayName": "雷蛇",
+      "sourceFolder": "角色基础包/Liskarm",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-41afb5e8f69183a4.zip"
+    },
+    {
+      "file": "base-2b0709236ba29664.zip",
+      "bytes": 8018001,
+      "kind": "base",
+      "roleId": "Logos",
+      "displayName": "逻各斯",
+      "sourceFolder": "角色基础包/Logos",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-2b0709236ba29664.zip"
+    },
+    {
+      "file": "base-646261ab3d15d7a8.zip",
+      "bytes": 5346305,
+      "kind": "base",
+      "roleId": "Lucilla",
+      "displayName": "海霓",
+      "sourceFolder": "角色基础包/Lucilla",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-646261ab3d15d7a8.zip"
+    },
+    {
+      "file": "base-faae7186de420ea7.zip",
+      "bytes": 5803718,
+      "kind": "base",
+      "roleId": "Lumen",
+      "displayName": "流明",
+      "sourceFolder": "角色基础包/Lumen",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-faae7186de420ea7.zip"
+    },
+    {
+      "file": "base-1bcb1197ab8afa26.zip",
+      "bytes": 4733970,
+      "kind": "base",
+      "roleId": "Lunacub",
+      "displayName": "子月",
+      "sourceFolder": "角色基础包/Lunacub",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-1bcb1197ab8afa26.zip"
+    },
+    {
+      "file": "base-7f37b60b66211c5d.zip",
+      "bytes": 1730059,
+      "kind": "base",
+      "roleId": "Luo Xiaohei",
+      "displayName": "罗小黑",
+      "sourceFolder": "角色基础包/Luo Xiaohei",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-7f37b60b66211c5d.zip"
+    },
+    {
+      "file": "base-edb63f1066aeb114.zip",
+      "bytes": 4647840,
+      "kind": "base",
+      "roleId": "Lutonada",
+      "displayName": "露托",
+      "sourceFolder": "角色基础包/Lutonada",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-edb63f1066aeb114.zip"
+    },
+    {
+      "file": "base-98be32407f728a0b.zip",
+      "bytes": 3924995,
+      "kind": "base",
+      "roleId": "Magallan",
+      "displayName": "麦哲伦",
+      "sourceFolder": "角色基础包/Magallan",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-98be32407f728a0b.zip"
+    },
+    {
+      "file": "base-b8f68abf5bd8845f.zip",
+      "bytes": 10852804,
+      "kind": "base",
+      "roleId": "Makoto Yuki",
+      "displayName": "结城理",
+      "sourceFolder": "角色基础包/Makoto Yuki",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-b8f68abf5bd8845f.zip"
+    },
+    {
+      "file": "base-f571571f5f2d4c33.zip",
+      "bytes": 4069824,
+      "kind": "base",
+      "roleId": "Manticore",
+      "displayName": "狮蝎",
+      "sourceFolder": "角色基础包/Manticore",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-f571571f5f2d4c33.zip"
+    },
+    {
+      "file": "base-39a4918ef5e31791.zip",
+      "bytes": 5871013,
+      "kind": "base",
+      "roleId": "Mantra",
+      "displayName": "真言",
+      "sourceFolder": "角色基础包/Mantra",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-39a4918ef5e31791.zip"
+    },
+    {
+      "file": "base-1f7e0f547ab5cd7c.zip",
+      "bytes": 5348311,
+      "kind": "base",
+      "roleId": "Marcille",
+      "displayName": "玛露西尔",
+      "sourceFolder": "角色基础包/Marcille",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-1f7e0f547ab5cd7c.zip"
+    },
+    {
+      "file": "base-6db315a557bea243.zip",
+      "bytes": 4483907,
+      "kind": "base",
+      "roleId": "Matoimaru",
+      "displayName": "缠丸",
+      "sourceFolder": "角色基础包/Matoimaru",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-6db315a557bea243.zip"
+    },
+    {
+      "file": "base-934985d102d3a085.zip",
+      "bytes": 5756356,
+      "kind": "base",
+      "roleId": "Matsukiri",
+      "displayName": "松桐",
+      "sourceFolder": "角色基础包/Matsukiri",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-934985d102d3a085.zip"
+    },
+    {
+      "file": "base-4c0e0460dde9152e.zip",
+      "bytes": 2590599,
+      "kind": "base",
+      "roleId": "Matterhorn",
+      "displayName": "角峰",
+      "sourceFolder": "角色基础包/Matterhorn",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-4c0e0460dde9152e.zip"
+    },
+    {
+      "file": "base-8c78fe5b9936488c.zip",
+      "bytes": 3682000,
+      "kind": "base",
+      "roleId": "May",
+      "displayName": "梅",
+      "sourceFolder": "角色基础包/May",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-8c78fe5b9936488c.zip"
+    },
+    {
+      "file": "base-bca6904747c7e980.zip",
+      "bytes": 3099227,
+      "kind": "base",
+      "roleId": "Mayer",
+      "displayName": "梅尔",
+      "sourceFolder": "角色基础包/Mayer",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-bca6904747c7e980.zip"
+    },
+    {
+      "file": "base-b668ce2258253695.zip",
+      "bytes": 3801246,
+      "kind": "base",
+      "roleId": "Mechanist",
+      "displayName": "机械师",
+      "sourceFolder": "角色基础包/Mechanist",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-b668ce2258253695.zip"
+    },
+    {
+      "file": "base-21d817c061a033ee.zip",
+      "bytes": 4193547,
+      "kind": "base",
+      "roleId": "Melanite",
+      "displayName": "玫拉",
+      "sourceFolder": "角色基础包/Melanite",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-21d817c061a033ee.zip"
+    },
+    {
+      "file": "base-dc16399fc5cc8fff.zip",
+      "bytes": 2715550,
+      "kind": "base",
+      "roleId": "Melantha",
+      "displayName": "玫兰莎",
+      "sourceFolder": "角色基础包/Melantha",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-dc16399fc5cc8fff.zip"
+    },
+    {
+      "file": "base-0024757adc8c0af5.zip",
+      "bytes": 3473113,
+      "kind": "base",
+      "roleId": "Meteor",
+      "displayName": "流星",
+      "sourceFolder": "角色基础包/Meteor",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-0024757adc8c0af5.zip"
+    },
+    {
+      "file": "base-de9f9c4823a2127b.zip",
+      "bytes": 3445409,
+      "kind": "base",
+      "roleId": "Meteorite",
+      "displayName": "陨星",
+      "sourceFolder": "角色基础包/Meteorite",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-de9f9c4823a2127b.zip"
+    },
+    {
+      "file": "base-aa996cf21f0dbc61.zip",
+      "bytes": 3074665,
+      "kind": "base",
+      "roleId": "Midnight",
+      "displayName": "月见夜",
+      "sourceFolder": "角色基础包/Midnight",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-aa996cf21f0dbc61.zip"
+    },
+    {
+      "file": "base-d02078a48a0145fa.zip",
+      "bytes": 4170545,
+      "kind": "base",
+      "roleId": "Minimalist",
+      "displayName": "至简",
+      "sourceFolder": "角色基础包/Minimalist",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-d02078a48a0145fa.zip"
+    },
+    {
+      "file": "base-ced97cc4a377b5b4.zip",
+      "bytes": 5696909,
+      "kind": "base",
+      "roleId": "Mint",
+      "displayName": "薄绿",
+      "sourceFolder": "角色基础包/Mint",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-ced97cc4a377b5b4.zip"
+    },
+    {
+      "file": "base-e3736d0de6091525.zip",
+      "bytes": 2161504,
+      "kind": "base",
+      "roleId": "Miss.Christine",
+      "displayName": "Miss.Christine",
+      "sourceFolder": "角色基础包/Miss.Christine",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-e3736d0de6091525.zip"
+    },
+    {
+      "file": "base-c8a531dc8416b275.zip",
+      "bytes": 3529313,
+      "kind": "base",
+      "roleId": "Misumi Uika",
+      "displayName": "三角初华",
+      "sourceFolder": "角色基础包/Misumi Uika",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-c8a531dc8416b275.zip"
+    },
+    {
+      "file": "base-dea28d50caca6fc1.zip",
+      "bytes": 5407806,
+      "kind": "base",
+      "roleId": "Mitm",
+      "displayName": "渡桥",
+      "sourceFolder": "角色基础包/Mitm",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-dea28d50caca6fc1.zip"
+    },
+    {
+      "file": "base-ad7a5e6d852968c7.zip",
+      "bytes": 5975005,
+      "kind": "base",
+      "roleId": "Mizuki",
+      "displayName": "水月",
+      "sourceFolder": "角色基础包/Mizuki",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-ad7a5e6d852968c7.zip"
+    },
+    {
+      "file": "base-6d72ffb4cb5e105b.zip",
+      "bytes": 8550457,
+      "kind": "base",
+      "roleId": "Mon3tr",
+      "displayName": "Mon3tr",
+      "sourceFolder": "角色基础包/Mon3tr",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-6d72ffb4cb5e105b.zip"
+    },
+    {
+      "file": "base-02281b3b5dd57c46.zip",
+      "bytes": 4852982,
+      "kind": "base",
+      "roleId": "Morgan",
+      "displayName": "摩根",
+      "sourceFolder": "角色基础包/Morgan",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-02281b3b5dd57c46.zip"
+    },
+    {
+      "file": "base-184f38087399ec9d.zip",
+      "bytes": 7658967,
+      "kind": "base",
+      "roleId": "Mostima",
+      "displayName": "莫斯提马",
+      "sourceFolder": "角色基础包/Mostima",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-184f38087399ec9d.zip"
+    },
+    {
+      "file": "base-156193387bc71c75.zip",
+      "bytes": 6288273,
+      "kind": "base",
+      "roleId": "Mountain",
+      "displayName": "山",
+      "sourceFolder": "角色基础包/Mountain",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-156193387bc71c75.zip"
+    },
+    {
+      "file": "base-8985652707496203.zip",
+      "bytes": 3627136,
+      "kind": "base",
+      "roleId": "Mousse",
+      "displayName": "慕斯",
+      "sourceFolder": "角色基础包/Mousse",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-8985652707496203.zip"
+    },
+    {
+      "file": "base-53f20af2658e33d2.zip",
+      "bytes": 5413951,
+      "kind": "base",
+      "roleId": "Mr.Nothing",
+      "displayName": "乌有",
+      "sourceFolder": "角色基础包/Mr.Nothing",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-53f20af2658e33d2.zip"
+    },
+    {
+      "file": "base-94949358c5cd06f0.zip",
+      "bytes": 8347839,
+      "kind": "base",
+      "roleId": "Mudrock",
+      "displayName": "泥岩",
+      "sourceFolder": "角色基础包/Mudrock",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-94949358c5cd06f0.zip"
+    },
+    {
+      "file": "base-ec756730fb6b396e.zip",
+      "bytes": 8500129,
+      "kind": "base",
+      "roleId": "Muelsyse",
+      "displayName": "缪尔赛思",
+      "sourceFolder": "角色基础包/Muelsyse",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-ec756730fb6b396e.zip"
+    },
+    {
+      "file": "base-21590d48f7427720.zip",
+      "bytes": 7130898,
+      "kind": "base",
+      "roleId": "Mulberry",
+      "displayName": "桑葚",
+      "sourceFolder": "角色基础包/Mulberry",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-21590d48f7427720.zip"
+    },
+    {
+      "file": "base-3516cbbe62e5bd27.zip",
+      "bytes": 3576071,
+      "kind": "base",
+      "roleId": "Myrrh",
+      "displayName": "末药",
+      "sourceFolder": "角色基础包/Myrrh",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-3516cbbe62e5bd27.zip"
+    },
+    {
+      "file": "base-abd740f3be2ebe20.zip",
+      "bytes": 5472661,
+      "kind": "base",
+      "roleId": "Myrtle",
+      "displayName": "桃金娘",
+      "sourceFolder": "角色基础包/Myrtle",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-abd740f3be2ebe20.zip"
+    },
+    {
+      "file": "base-1cba17e03798e9cf.zip",
+      "bytes": 6200484,
+      "kind": "base",
+      "roleId": "Młynar",
+      "displayName": "玛恩纳",
+      "sourceFolder": "角色基础包/Młynar",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-1cba17e03798e9cf.zip"
+    },
+    {
+      "file": "base-ab6626350a575bab.zip",
+      "bytes": 7222977,
+      "kind": "base",
+      "roleId": "Narantuya",
+      "displayName": "娜仁图亚",
+      "sourceFolder": "角色基础包/Narantuya",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-ab6626350a575bab.zip"
+    },
+    {
+      "file": "base-a3aaf8fc7b6b94ca.zip",
+      "bytes": 4240193,
+      "kind": "base",
+      "roleId": "Nasti",
+      "displayName": "娜斯提",
+      "sourceFolder": "角色基础包/Nasti",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-a3aaf8fc7b6b94ca.zip"
+    },
+    {
+      "file": "base-6d7142c93caa1860.zip",
+      "bytes": 2964914,
+      "kind": "base",
+      "roleId": "Nearl",
+      "displayName": "临光",
+      "sourceFolder": "角色基础包/Nearl",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-6d7142c93caa1860.zip"
+    },
+    {
+      "file": "base-412d7de81d9b6ba0.zip",
+      "bytes": 5558182,
+      "kind": "base",
+      "roleId": "Nearl the Radiant Knight",
+      "displayName": "耀骑士临光",
+      "sourceFolder": "角色基础包/Nearl the Radiant Knight",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-412d7de81d9b6ba0.zip"
+    },
+    {
+      "file": "base-c9d106e2ea28cbfb.zip",
+      "bytes": 6771254,
+      "kind": "base",
+      "roleId": "Necrass",
+      "displayName": "死芒",
+      "sourceFolder": "角色基础包/Necrass",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-c9d106e2ea28cbfb.zip"
+    },
+    {
+      "file": "base-46ca7ac60df08cac.zip",
+      "bytes": 7032661,
+      "kind": "base",
+      "roleId": "Nian",
+      "displayName": "年",
+      "sourceFolder": "角色基础包/Nian",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-46ca7ac60df08cac.zip"
+    },
+    {
+      "file": "base-dbcf1a61191cb562.zip",
+      "bytes": 4444501,
+      "kind": "base",
+      "roleId": "Nightingale",
+      "displayName": "夜莺",
+      "sourceFolder": "角色基础包/Nightingale",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-dbcf1a61191cb562.zip"
+    },
+    {
+      "file": "base-864e8d565eac5de1.zip",
+      "bytes": 4378046,
+      "kind": "base",
+      "roleId": "Nightmare",
+      "displayName": "夜魔",
+      "sourceFolder": "角色基础包/Nightmare",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-864e8d565eac5de1.zip"
+    },
+    {
+      "file": "base-1b70381f049c62e5.zip",
+      "bytes": 4222557,
+      "kind": "base",
+      "roleId": "Nine-Colored Deer",
+      "displayName": "九色鹿",
+      "sourceFolder": "角色基础包/Nine-Colored Deer",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-1b70381f049c62e5.zip"
+    },
+    {
+      "file": "base-af70553b96e1fb48.zip",
+      "bytes": 2029702,
+      "kind": "base",
+      "roleId": "Noir Corne",
+      "displayName": "黑角",
+      "sourceFolder": "角色基础包/Noir Corne",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-af70553b96e1fb48.zip"
+    },
+    {
+      "file": "base-4908002c6a2e02a2.zip",
+      "bytes": 4965565,
+      "kind": "base",
+      "roleId": "Nowell",
+      "displayName": "诺威尔",
+      "sourceFolder": "角色基础包/Nowell",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-4908002c6a2e02a2.zip"
+    },
+    {
+      "file": "base-0937493ec38f4c80.zip",
+      "bytes": 6280089,
+      "kind": "base",
+      "roleId": "Nymph",
+      "displayName": "妮芙",
+      "sourceFolder": "角色基础包/Nymph",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-0937493ec38f4c80.zip"
+    },
+    {
+      "file": "base-4767f08664349122.zip",
+      "bytes": 4051820,
+      "kind": "base",
+      "roleId": "Odda",
+      "displayName": "奥达",
+      "sourceFolder": "角色基础包/Odda",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-4767f08664349122.zip"
+    },
+    {
+      "file": "base-baf5d82057e714c2.zip",
+      "bytes": 3361061,
+      "kind": "base",
+      "roleId": "Orchid",
+      "displayName": "梓兰",
+      "sourceFolder": "角色基础包/Orchid",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-baf5d82057e714c2.zip"
+    },
+    {
+      "file": "base-95550208e7bac16e.zip",
+      "bytes": 6356878,
+      "kind": "base",
+      "roleId": "Pallas",
+      "displayName": "帕拉斯",
+      "sourceFolder": "角色基础包/Pallas",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-95550208e7bac16e.zip"
+    },
+    {
+      "file": "base-6923479cd452a956.zip",
+      "bytes": 4948385,
+      "kind": "base",
+      "roleId": "Paprika",
+      "displayName": "明椒",
+      "sourceFolder": "角色基础包/Paprika",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-6923479cd452a956.zip"
+    },
+    {
+      "file": "base-0712a2e96ee67869.zip",
+      "bytes": 5183846,
+      "kind": "base",
+      "roleId": "Papyrus",
+      "displayName": "莎草",
+      "sourceFolder": "角色基础包/Papyrus",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-0712a2e96ee67869.zip"
+    },
+    {
+      "file": "base-e16c206f617c3ee5.zip",
+      "bytes": 6656247,
+      "kind": "base",
+      "roleId": "Passenger",
+      "displayName": "异客",
+      "sourceFolder": "角色基础包/Passenger",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-e16c206f617c3ee5.zip"
+    },
+    {
+      "file": "base-a432d817e884eb8b.zip",
+      "bytes": 3696653,
+      "kind": "base",
+      "roleId": "Pedro",
+      "displayName": "佩德洛",
+      "sourceFolder": "角色基础包/Pedro",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-a432d817e884eb8b.zip"
+    },
+    {
+      "file": "base-5a679d7121d93c8d.zip",
+      "bytes": 6411859,
+      "kind": "base",
+      "roleId": "Penance",
+      "displayName": "斥罪",
+      "sourceFolder": "角色基础包/Penance",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-5a679d7121d93c8d.zip"
+    },
+    {
+      "file": "base-e09b6c1fc25adca4.zip",
+      "bytes": 5217970,
+      "kind": "base",
+      "roleId": "Pepe",
+      "displayName": "佩佩",
+      "sourceFolder": "角色基础包/Pepe",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-e09b6c1fc25adca4.zip"
+    },
+    {
+      "file": "base-c07c7dcbf0614d4e.zip",
+      "bytes": 3126781,
+      "kind": "base",
+      "roleId": "Perfumer",
+      "displayName": "调香师",
+      "sourceFolder": "角色基础包/Perfumer",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-c07c7dcbf0614d4e.zip"
+    },
+    {
+      "file": "base-1f7ff3d350129260.zip",
+      "bytes": 4270774,
+      "kind": "base",
+      "roleId": "Perfumer the Distilled",
+      "displayName": "撷英调香师",
+      "sourceFolder": "角色基础包/Perfumer the Distilled",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-1f7ff3d350129260.zip"
+    },
+    {
+      "file": "base-08b6a3efc2b5fe15.zip",
+      "bytes": 5759637,
+      "kind": "base",
+      "roleId": "Phantom",
+      "displayName": "傀影",
+      "sourceFolder": "角色基础包/Phantom",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-08b6a3efc2b5fe15.zip"
+    },
+    {
+      "file": "base-4f046a23b70c7569.zip",
+      "bytes": 6375257,
+      "kind": "base",
+      "roleId": "Philae",
+      "displayName": "菲莱",
+      "sourceFolder": "角色基础包/Philae",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-4f046a23b70c7569.zip"
+    },
+    {
+      "file": "base-bce19f63480e887b.zip",
+      "bytes": 4797749,
+      "kind": "base",
+      "roleId": "PhonoR-0",
+      "displayName": "PhonoR-0",
+      "sourceFolder": "角色基础包/PhonoR-0",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-bce19f63480e887b.zip"
+    },
+    {
+      "file": "base-b5ba8d2ee0e1928b.zip",
+      "bytes": 4667522,
+      "kind": "base",
+      "roleId": "Pinecone",
+      "displayName": "松果",
+      "sourceFolder": "角色基础包/Pinecone",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-b5ba8d2ee0e1928b.zip"
+    },
+    {
+      "file": "base-5a98505ed9138590.zip",
+      "bytes": 4003836,
+      "kind": "base",
+      "roleId": "Platinum",
+      "displayName": "白金",
+      "sourceFolder": "角色基础包/Platinum",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-5a98505ed9138590.zip"
+    },
+    {
+      "file": "base-324b7ca1312182bf.zip",
+      "bytes": 2886338,
+      "kind": "base",
+      "roleId": "Plume",
+      "displayName": "翎羽",
+      "sourceFolder": "角色基础包/Plume",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-324b7ca1312182bf.zip"
+    },
+    {
+      "file": "base-213bc2cbac71ff21.zip",
+      "bytes": 3458593,
+      "kind": "base",
+      "roleId": "Podenco",
+      "displayName": "波登可",
+      "sourceFolder": "角色基础包/Podenco",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-213bc2cbac71ff21.zip"
+    },
+    {
+      "file": "base-1ef8c04985f41f85.zip",
+      "bytes": 4637175,
+      "kind": "base",
+      "roleId": "Poncirus",
+      "displayName": "青枳",
+      "sourceFolder": "角色基础包/Poncirus",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-1ef8c04985f41f85.zip"
+    },
+    {
+      "file": "base-bc8ee796ee4f062a.zip",
+      "bytes": 5181110,
+      "kind": "base",
+      "roleId": "Popukar",
+      "displayName": "泡普卡",
+      "sourceFolder": "角色基础包/Popukar",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-bc8ee796ee4f062a.zip"
+    },
+    {
+      "file": "base-0115f2ccc31a5e6b.zip",
+      "bytes": 3912897,
+      "kind": "base",
+      "roleId": "Pramanix",
+      "displayName": "初雪",
+      "sourceFolder": "角色基础包/Pramanix",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-0115f2ccc31a5e6b.zip"
+    },
+    {
+      "file": "base-2606368d6003c428.zip",
+      "bytes": 9320612,
+      "kind": "base",
+      "roleId": "Pramanix the Prerita",
+      "displayName": "圣聆初雪",
+      "sourceFolder": "角色基础包/Pramanix the Prerita",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-2606368d6003c428.zip"
+    },
+    {
+      "file": "base-e57983b14867014a.zip",
+      "bytes": 2694497,
+      "kind": "base",
+      "roleId": "Projekt Red",
+      "displayName": "红",
+      "sourceFolder": "角色基础包/Projekt Red",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-e57983b14867014a.zip"
+    },
+    {
+      "file": "base-1b45cbf3b4b660c3.zip",
+      "bytes": 3461821,
+      "kind": "base",
+      "roleId": "Provence",
+      "displayName": "普罗旺斯",
+      "sourceFolder": "角色基础包/Provence",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-1b45cbf3b4b660c3.zip"
+    },
+    {
+      "file": "base-8802074458c4361e.zip",
+      "bytes": 4931381,
+      "kind": "base",
+      "roleId": "Proviso",
+      "displayName": "但书",
+      "sourceFolder": "角色基础包/Proviso",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-8802074458c4361e.zip"
+    },
+    {
+      "file": "base-b2896489e8ecae0d.zip",
+      "bytes": 3699938,
+      "kind": "base",
+      "roleId": "Ptilopsis",
+      "displayName": "白面鸮",
+      "sourceFolder": "角色基础包/Ptilopsis",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-b2896489e8ecae0d.zip"
+    },
+    {
+      "file": "base-b21db2fd6e6a4484.zip",
+      "bytes": 5134544,
+      "kind": "base",
+      "roleId": "Pudding",
+      "displayName": "布丁",
+      "sourceFolder": "角色基础包/Pudding",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-b21db2fd6e6a4484.zip"
+    },
+    {
+      "file": "base-946ef8a01a6a82a9.zip",
+      "bytes": 4194466,
+      "kind": "base",
+      "roleId": "Purestream",
+      "displayName": "清流",
+      "sourceFolder": "角色基础包/Purestream",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-946ef8a01a6a82a9.zip"
+    },
+    {
+      "file": "base-2509a26877403b3f.zip",
+      "bytes": 5435653,
+      "kind": "base",
+      "roleId": "Puzzle",
+      "displayName": "谜图",
+      "sourceFolder": "角色基础包/Puzzle",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-2509a26877403b3f.zip"
+    },
+    {
+      "file": "base-991151f3d331a79e.zip",
+      "bytes": 4940890,
+      "kind": "base",
+      "roleId": "Qanipalaat",
+      "displayName": "雪绒",
+      "sourceFolder": "角色基础包/Qanipalaat",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-991151f3d331a79e.zip"
+    },
+    {
+      "file": "base-c5b20f3027b222eb.zip",
+      "bytes": 6899746,
+      "kind": "base",
+      "roleId": "Qiubai",
+      "displayName": "仇白",
+      "sourceFolder": "角色基础包/Qiubai",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-c5b20f3027b222eb.zip"
+    },
+    {
+      "file": "base-6dbfeeb207b36340.zip",
+      "bytes": 4135193,
+      "kind": "base",
+      "roleId": "Quartz",
+      "displayName": "石英",
+      "sourceFolder": "角色基础包/Quartz",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-6dbfeeb207b36340.zip"
+    },
+    {
+      "file": "base-5486b08f2f960836.zip",
+      "bytes": 5448458,
+      "kind": "base",
+      "roleId": "Quercus",
+      "displayName": "夏栎",
+      "sourceFolder": "角色基础包/Quercus",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-5486b08f2f960836.zip"
+    },
+    {
+      "file": "base-0650570ca719ea6b.zip",
+      "bytes": 5226597,
+      "kind": "base",
+      "roleId": "Raidian",
+      "displayName": "电弧",
+      "sourceFolder": "角色基础包/Raidian",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-0650570ca719ea6b.zip"
+    },
+    {
+      "file": "base-b3b94eb4dc10bcf2.zip",
+      "bytes": 2303268,
+      "kind": "base",
+      "roleId": "Rangers",
+      "displayName": "巡林者",
+      "sourceFolder": "角色基础包/Rangers",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-b3b94eb4dc10bcf2.zip"
+    },
+    {
+      "file": "base-44903d44b305e7f9.zip",
+      "bytes": 4042777,
+      "kind": "base",
+      "roleId": "Rathalos S Noir Corne",
+      "displayName": "火龙S黑角",
+      "sourceFolder": "角色基础包/Rathalos S Noir Corne",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-44903d44b305e7f9.zip"
+    },
+    {
+      "file": "base-cc172a7c8269911b.zip",
+      "bytes": 8281636,
+      "kind": "base",
+      "roleId": "Ray",
+      "displayName": "莱伊",
+      "sourceFolder": "角色基础包/Ray",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-cc172a7c8269911b.zip"
+    },
+    {
+      "file": "base-d37aa448a73b24e1.zip",
+      "bytes": 6454228,
+      "kind": "base",
+      "roleId": "Record Keeper",
+      "displayName": "录武官",
+      "sourceFolder": "角色基础包/Record Keeper",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-d37aa448a73b24e1.zip"
+    },
+    {
+      "file": "base-f58e4a64909caaa5.zip",
+      "bytes": 4745952,
+      "kind": "base",
+      "roleId": "Reed",
+      "displayName": "苇草",
+      "sourceFolder": "角色基础包/Reed",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-f58e4a64909caaa5.zip"
+    },
+    {
+      "file": "base-c5f185993c68500a.zip",
+      "bytes": 7752021,
+      "kind": "base",
+      "roleId": "Reed The Flame Shadow",
+      "displayName": "焰影苇草",
+      "sourceFolder": "角色基础包/Reed The Flame Shadow",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-c5f185993c68500a.zip"
+    },
+    {
+      "file": "base-fbf8f07a34935354.zip",
+      "bytes": 5848726,
+      "kind": "base",
+      "roleId": "Rhodes Island Recon",
+      "displayName": "罗德岛隐秘队",
+      "sourceFolder": "角色基础包/Rhodes Island Recon",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-fbf8f07a34935354.zip"
+    },
+    {
+      "file": "base-c2bf18eea9036dcf.zip",
+      "bytes": 4276214,
+      "kind": "base",
+      "roleId": "Ripresa",
+      "displayName": "复奏",
+      "sourceFolder": "角色基础包/Ripresa",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-c2bf18eea9036dcf.zip"
+    },
+    {
+      "file": "base-cebfacd7a17cd553.zip",
+      "bytes": 5132104,
+      "kind": "base",
+      "roleId": "Roberta",
+      "displayName": "罗比菈塔",
+      "sourceFolder": "角色基础包/Roberta",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-cebfacd7a17cd553.zip"
+    },
+    {
+      "file": "base-b4eb71306c2267a1.zip",
+      "bytes": 3999974,
+      "kind": "base",
+      "roleId": "Robin",
+      "displayName": "罗宾",
+      "sourceFolder": "角色基础包/Robin",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-b4eb71306c2267a1.zip"
+    },
+    {
+      "file": "base-c9bdd15444d3f8a7.zip",
+      "bytes": 5251818,
+      "kind": "base",
+      "roleId": "Rockrock",
+      "displayName": "洛洛",
+      "sourceFolder": "角色基础包/Rockrock",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-c9bdd15444d3f8a7.zip"
+    },
+    {
+      "file": "base-b6337bdcf05e243e.zip",
+      "bytes": 4127672,
+      "kind": "base",
+      "roleId": "Rope",
+      "displayName": "暗索",
+      "sourceFolder": "角色基础包/Rope",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-b6337bdcf05e243e.zip"
+    },
+    {
+      "file": "base-2924276eec78706c.zip",
+      "bytes": 5626195,
+      "kind": "base",
+      "roleId": "Rose Salt",
+      "displayName": "瑰盐",
+      "sourceFolder": "角色基础包/Rose Salt",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-2924276eec78706c.zip"
+    },
+    {
+      "file": "base-fe0a6d0925767204.zip",
+      "bytes": 12825662,
+      "kind": "base",
+      "roleId": "Rosmontis",
+      "displayName": "迷迭香",
+      "sourceFolder": "角色基础包/Rosmontis",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-fe0a6d0925767204.zip"
+    },
+    {
+      "file": "base-7ee2c65e27278c2f.zip",
+      "bytes": 5548825,
+      "kind": "base",
+      "roleId": "Saga",
+      "displayName": "嵯峨",
+      "sourceFolder": "角色基础包/Saga",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-7ee2c65e27278c2f.zip"
+    },
+    {
+      "file": "base-ea9526125138146e.zip",
+      "bytes": 6937997,
+      "kind": "base",
+      "roleId": "Saileach",
+      "displayName": "琴柳",
+      "sourceFolder": "角色基础包/Saileach",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-ea9526125138146e.zip"
+    },
+    {
+      "file": "base-e820443f1f59ea27.zip",
+      "bytes": 5720963,
+      "kind": "base",
+      "roleId": "Sand Reckoner",
+      "displayName": "衡沙",
+      "sourceFolder": "角色基础包/Sand Reckoner",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-e820443f1f59ea27.zip"
+    },
+    {
+      "file": "base-919f7cb8b42689ec.zip",
+      "bytes": 7189458,
+      "kind": "base",
+      "roleId": "Sankta Miksaparato",
+      "displayName": "信仰搅拌机",
+      "sourceFolder": "角色基础包/Sankta Miksaparato",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-919f7cb8b42689ec.zip"
+    },
+    {
+      "file": "base-45cb8c450b2ed8a0.zip",
+      "bytes": 4341753,
+      "kind": "base",
+      "roleId": "Santalla",
+      "displayName": "寒檀",
+      "sourceFolder": "角色基础包/Santalla",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-45cb8c450b2ed8a0.zip"
+    },
+    {
+      "file": "base-c4e18d71baf4dd43.zip",
+      "bytes": 4578949,
+      "kind": "base",
+      "roleId": "Saria",
+      "displayName": "塞雷娅",
+      "sourceFolder": "角色基础包/Saria",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-c4e18d71baf4dd43.zip"
+    },
+    {
+      "file": "base-10a6a1988eca922f.zip",
+      "bytes": 4492020,
+      "kind": "base",
+      "roleId": "Savage",
+      "displayName": "暴行",
+      "sourceFolder": "角色基础包/Savage",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-10a6a1988eca922f.zip"
+    },
+    {
+      "file": "base-903b0e53a609d62b.zip",
+      "bytes": 2531247,
+      "kind": "base",
+      "roleId": "Scavenger",
+      "displayName": "清道夫",
+      "sourceFolder": "角色基础包/Scavenger",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-903b0e53a609d62b.zip"
+    },
+    {
+      "file": "base-477e5af2fd7e4472.zip",
+      "bytes": 4860514,
+      "kind": "base",
+      "roleId": "Scene",
+      "displayName": "稀音",
+      "sourceFolder": "角色基础包/Scene",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-477e5af2fd7e4472.zip"
+    },
+    {
+      "file": "base-25e5d3fea1eb6e4a.zip",
+      "bytes": 4921384,
+      "kind": "base",
+      "roleId": "Schwarz",
+      "displayName": "黑",
+      "sourceFolder": "角色基础包/Schwarz",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-25e5d3fea1eb6e4a.zip"
+    },
+    {
+      "file": "base-115a0daa23e59904.zip",
+      "bytes": 4424481,
+      "kind": "base",
+      "roleId": "Senshi",
+      "displayName": "森西",
+      "sourceFolder": "角色基础包/Senshi",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-115a0daa23e59904.zip"
+    },
+    {
+      "file": "base-6c1eb8b36fc795af.zip",
+      "bytes": 5038048,
+      "kind": "base",
+      "roleId": "Sesa",
+      "displayName": "慑砂",
+      "sourceFolder": "角色基础包/Sesa",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-6c1eb8b36fc795af.zip"
+    },
+    {
+      "file": "base-80d18494f6f5ca3f.zip",
+      "bytes": 5335047,
+      "kind": "base",
+      "roleId": "Shalem",
+      "displayName": "暮落",
+      "sourceFolder": "角色基础包/Shalem",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-80d18494f6f5ca3f.zip"
+    },
+    {
+      "file": "base-b944016ff246c76d.zip",
+      "bytes": 5461507,
+      "kind": "base",
+      "roleId": "Shamare",
+      "displayName": "巫恋",
+      "sourceFolder": "角色基础包/Shamare",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-b944016ff246c76d.zip"
+    },
+    {
+      "file": "base-78f8298fe06c7caf.zip",
+      "bytes": 2397530,
+      "kind": "base",
+      "roleId": "Shaw",
+      "displayName": "阿消",
+      "sourceFolder": "角色基础包/Shaw",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-78f8298fe06c7caf.zip"
+    },
+    {
+      "file": "base-ec7914e362342e6d.zip",
+      "bytes": 3123026,
+      "kind": "base",
+      "roleId": "Shining",
+      "displayName": "闪灵",
+      "sourceFolder": "角色基础包/Shining",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-ec7914e362342e6d.zip"
+    },
+    {
+      "file": "base-28fe3efb0aa82ec0.zip",
+      "bytes": 1658378,
+      "kind": "base",
+      "roleId": "ShiraYuki",
+      "displayName": "白雪",
+      "sourceFolder": "角色基础包/ShiraYuki",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-28fe3efb0aa82ec0.zip"
+    },
+    {
+      "file": "base-ae3379ac2ab35c1c.zip",
+      "bytes": 8291058,
+      "kind": "base",
+      "roleId": "Shu",
+      "displayName": "黍",
+      "sourceFolder": "角色基础包/Shu",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-ae3379ac2ab35c1c.zip"
+    },
+    {
+      "file": "base-caf84ff4a9e7f5ab.zip",
+      "bytes": 4016761,
+      "kind": "base",
+      "roleId": "Sideroca",
+      "displayName": "铸铁",
+      "sourceFolder": "角色基础包/Sideroca",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-caf84ff4a9e7f5ab.zip"
+    },
+    {
+      "file": "base-58c501d8c33149bc.zip",
+      "bytes": 3114966,
+      "kind": "base",
+      "roleId": "Siege",
+      "displayName": "推进之王",
+      "sourceFolder": "角色基础包/Siege",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-58c501d8c33149bc.zip"
+    },
+    {
+      "file": "base-6c61fe498281f421.zip",
+      "bytes": 3489805,
+      "kind": "base",
+      "roleId": "Silence",
+      "displayName": "赫默",
+      "sourceFolder": "角色基础包/Silence",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-6c61fe498281f421.zip"
+    },
+    {
+      "file": "base-260dcc6a6c945f1e.zip",
+      "bytes": 4271580,
+      "kind": "base",
+      "roleId": "Silence the Paradigmatic",
+      "displayName": "淬羽赫默",
+      "sourceFolder": "角色基础包/Silence the Paradigmatic",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-260dcc6a6c945f1e.zip"
+    },
+    {
+      "file": "base-0bb53889db1d946c.zip",
+      "bytes": 4765161,
+      "kind": "base",
+      "roleId": "SilverAsh",
+      "displayName": "银灰",
+      "sourceFolder": "角色基础包/SilverAsh",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-0bb53889db1d946c.zip"
+    },
+    {
+      "file": "base-a096f91ed2e553e1.zip",
+      "bytes": 6652637,
+      "kind": "base",
+      "roleId": "SilverAsh the Reignfrost",
+      "displayName": "凛御银灰",
+      "sourceFolder": "角色基础包/SilverAsh the Reignfrost",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-a096f91ed2e553e1.zip"
+    },
+    {
+      "file": "base-0789e22c34781456.zip",
+      "bytes": 5048668,
+      "kind": "base",
+      "roleId": "Skadi",
+      "displayName": "斯卡蒂",
+      "sourceFolder": "角色基础包/Skadi",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-0789e22c34781456.zip"
+    },
+    {
+      "file": "base-dfd12bda87e2fea3.zip",
+      "bytes": 8983333,
+      "kind": "base",
+      "roleId": "Skadi the Corrupting Heart",
+      "displayName": "浊心斯卡蒂",
+      "sourceFolder": "角色基础包/Skadi the Corrupting Heart",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-dfd12bda87e2fea3.zip"
+    },
+    {
+      "file": "base-3813b58aab0e2706.zip",
+      "bytes": 5130421,
+      "kind": "base",
+      "roleId": "Skybox",
+      "displayName": "天空盒",
+      "sourceFolder": "角色基础包/Skybox",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-3813b58aab0e2706.zip"
+    },
+    {
+      "file": "base-d2c6b69a8ae1f187.zip",
+      "bytes": 3228626,
+      "kind": "base",
+      "roleId": "Skyfire",
+      "displayName": "天火",
+      "sourceFolder": "角色基础包/Skyfire",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-d2c6b69a8ae1f187.zip"
+    },
+    {
+      "file": "base-0f9065db64e11a19.zip",
+      "bytes": 4776546,
+      "kind": "base",
+      "roleId": "Snow Hunter",
+      "displayName": "雪猎",
+      "sourceFolder": "角色基础包/Snow Hunter",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-0f9065db64e11a19.zip"
+    },
+    {
+      "file": "base-2d6bf7efe2684829.zip",
+      "bytes": 4442175,
+      "kind": "base",
+      "roleId": "Snowsant",
+      "displayName": "雪雉",
+      "sourceFolder": "角色基础包/Snowsant",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-2d6bf7efe2684829.zip"
+    },
+    {
+      "file": "base-7fccb969ebf57bca.zip",
+      "bytes": 3695426,
+      "kind": "base",
+      "roleId": "Sora",
+      "displayName": "空",
+      "sourceFolder": "角色基础包/Sora",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-7fccb969ebf57bca.zip"
+    },
+    {
+      "file": "base-7070bb4c686e1cb1.zip",
+      "bytes": 4318008,
+      "kind": "base",
+      "roleId": "Specter",
+      "displayName": "幽灵鲨",
+      "sourceFolder": "角色基础包/Specter",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-7070bb4c686e1cb1.zip"
+    },
+    {
+      "file": "base-4d2aaabacd258c77.zip",
+      "bytes": 6788277,
+      "kind": "base",
+      "roleId": "Specter the Unchained",
+      "displayName": "归溟幽灵鲨",
+      "sourceFolder": "角色基础包/Specter the Unchained",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-4d2aaabacd258c77.zip"
+    },
+    {
+      "file": "base-74f8092562bd7967.zip",
+      "bytes": 3243358,
+      "kind": "base",
+      "roleId": "Spot",
+      "displayName": "斑点",
+      "sourceFolder": "角色基础包/Spot",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-74f8092562bd7967.zip"
+    },
+    {
+      "file": "base-45bfa06523482b77.zip",
+      "bytes": 4213359,
+      "kind": "base",
+      "roleId": "Spuria",
+      "displayName": "空构",
+      "sourceFolder": "角色基础包/Spuria",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-45bfa06523482b77.zip"
+    },
+    {
+      "file": "base-c7f955e2439f687c.zip",
+      "bytes": 5544625,
+      "kind": "base",
+      "roleId": "Stainless",
+      "displayName": "白铁",
+      "sourceFolder": "角色基础包/Stainless",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-c7f955e2439f687c.zip"
+    },
+    {
+      "file": "base-492a08e518c87fb4.zip",
+      "bytes": 2375207,
+      "kind": "base",
+      "roleId": "Steward",
+      "displayName": "史都华德",
+      "sourceFolder": "角色基础包/Steward",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-492a08e518c87fb4.zip"
+    },
+    {
+      "file": "base-f7de587060987d55.zip",
+      "bytes": 5121862,
+      "kind": "base",
+      "roleId": "Surfer",
+      "displayName": "寻澜",
+      "sourceFolder": "角色基础包/Surfer",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-f7de587060987d55.zip"
+    },
+    {
+      "file": "base-794427dff27a27be.zip",
+      "bytes": 11602056,
+      "kind": "base",
+      "roleId": "Surtr",
+      "displayName": "史尔特尔",
+      "sourceFolder": "角色基础包/Surtr",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-794427dff27a27be.zip"
+    },
+    {
+      "file": "base-1255715140c07c26.zip",
+      "bytes": 4068333,
+      "kind": "base",
+      "roleId": "Sussurro",
+      "displayName": "苏苏洛",
+      "sourceFolder": "角色基础包/Sussurro",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-1255715140c07c26.zip"
+    },
+    {
+      "file": "base-c238d643873082f2.zip",
+      "bytes": 10862783,
+      "kind": "base",
+      "roleId": "Suzuran",
+      "displayName": "铃兰",
+      "sourceFolder": "角色基础包/Suzuran",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-c238d643873082f2.zip"
+    },
+    {
+      "file": "base-13af439b45393d21.zip",
+      "bytes": 4723103,
+      "kind": "base",
+      "roleId": "Swire",
+      "displayName": "诗怀雅",
+      "sourceFolder": "角色基础包/Swire",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-13af439b45393d21.zip"
+    },
+    {
+      "file": "base-90efedc9fc35805c.zip",
+      "bytes": 5288660,
+      "kind": "base",
+      "roleId": "Swire the Elegant Wit",
+      "displayName": "琳琅诗怀雅",
+      "sourceFolder": "角色基础包/Swire the Elegant Wit",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-90efedc9fc35805c.zip"
+    },
+    {
+      "file": "base-9018c41ba7d4eee4.zip",
+      "bytes": 1914611,
+      "kind": "base",
+      "roleId": "Tachanka",
+      "displayName": "战车",
+      "sourceFolder": "角色基础包/Tachanka",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-9018c41ba7d4eee4.zip"
+    },
+    {
+      "file": "base-b1aad5b3ce26d32b.zip",
+      "bytes": 4850293,
+      "kind": "base",
+      "roleId": "Taraxacum",
+      "displayName": "风絮",
+      "sourceFolder": "角色基础包/Taraxacum",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-b1aad5b3ce26d32b.zip"
+    },
+    {
+      "file": "base-0a349845b9a2ceec.zip",
+      "bytes": 4437316,
+      "kind": "base",
+      "roleId": "Tecno",
+      "displayName": "特克诺",
+      "sourceFolder": "角色基础包/Tecno",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-0a349845b9a2ceec.zip"
+    },
+    {
+      "file": "base-433b4f7d1bc362eb.zip",
+      "bytes": 4913689,
+      "kind": "base",
+      "roleId": "Tequila",
+      "displayName": "龙舌兰",
+      "sourceFolder": "角色基础包/Tequila",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-433b4f7d1bc362eb.zip"
+    },
+    {
+      "file": "base-ecf3b83325482c4b.zip",
+      "bytes": 2252884,
+      "kind": "base",
+      "roleId": "Terra Research Commission",
+      "displayName": "泰拉大陆调查团",
+      "sourceFolder": "角色基础包/Terra Research Commission",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-ecf3b83325482c4b.zip"
+    },
+    {
+      "file": "base-4b95ce6272018a31.zip",
+      "bytes": 2873262,
+      "kind": "base",
+      "roleId": "Texas",
+      "displayName": "德克萨斯",
+      "sourceFolder": "角色基础包/Texas",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-4b95ce6272018a31.zip"
+    },
+    {
+      "file": "base-57caa6fe15c816c0.zip",
+      "bytes": 6067504,
+      "kind": "base",
+      "roleId": "Texas the Omertosa",
+      "displayName": "缄默德克萨斯",
+      "sourceFolder": "角色基础包/Texas the Omertosa",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-57caa6fe15c816c0.zip"
+    },
+    {
+      "file": "base-b2d0ad155ccc921c.zip",
+      "bytes": 2799044,
+      "kind": "base",
+      "roleId": "Thermal-EX",
+      "displayName": "THRM-EX",
+      "sourceFolder": "角色基础包/Thermal-EX",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-b2d0ad155ccc921c.zip"
+    },
+    {
+      "file": "base-d20c5a45f3025088.zip",
+      "bytes": 5979697,
+      "kind": "base",
+      "roleId": "Thorns",
+      "displayName": "棘刺",
+      "sourceFolder": "角色基础包/Thorns",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-d20c5a45f3025088.zip"
+    },
+    {
+      "file": "base-236a6fbf2d674fab.zip",
+      "bytes": 4913813,
+      "kind": "base",
+      "roleId": "Thorns the Lodestar",
+      "displayName": "引星棘刺",
+      "sourceFolder": "角色基础包/Thorns the Lodestar",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-236a6fbf2d674fab.zip"
+    },
+    {
+      "file": "base-7a00239b695f303b.zip",
+      "bytes": 5500856,
+      "kind": "base",
+      "roleId": "Thumpy",
+      "displayName": "珊比",
+      "sourceFolder": "角色基础包/Thumpy",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-7a00239b695f303b.zip"
+    },
+    {
+      "file": "base-3393e5cad3b40330.zip",
+      "bytes": 6280540,
+      "kind": "base",
+      "roleId": "Timeslot",
+      "displayName": "时隙",
+      "sourceFolder": "角色基础包/Timeslot",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-3393e5cad3b40330.zip"
+    },
+    {
+      "file": "base-6d916b141530eb42.zip",
+      "bytes": 6738804,
+      "kind": "base",
+      "roleId": "Tin Man",
+      "displayName": "锡人",
+      "sourceFolder": "角色基础包/Tin Man",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-6d916b141530eb42.zip"
+    },
+    {
+      "file": "base-6162c2ed4a5abe24.zip",
+      "bytes": 6240194,
+      "kind": "base",
+      "roleId": "Tippi",
+      "displayName": "蒂比",
+      "sourceFolder": "角色基础包/Tippi",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-6162c2ed4a5abe24.zip"
+    },
+    {
+      "file": "base-0d951f64eb20b310.zip",
+      "bytes": 4304478,
+      "kind": "base",
+      "roleId": "Titi",
+      "displayName": "缇缇",
+      "sourceFolder": "角色基础包/Titi",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-0d951f64eb20b310.zip"
+    },
+    {
+      "file": "base-f76486b06ed97ffa.zip",
+      "bytes": 4002582,
+      "kind": "base",
+      "roleId": "Toddifons",
+      "displayName": "熔泉",
+      "sourceFolder": "角色基础包/Toddifons",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-f76486b06ed97ffa.zip"
+    },
+    {
+      "file": "base-04b682e0edb0b41c.zip",
+      "bytes": 6939931,
+      "kind": "base",
+      "roleId": "Togawa Sakiko",
+      "displayName": "丰川祥子",
+      "sourceFolder": "角色基础包/Togawa Sakiko",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-04b682e0edb0b41c.zip"
+    },
+    {
+      "file": "base-dfad448897ceae68.zip",
+      "bytes": 5215003,
+      "kind": "base",
+      "roleId": "Tomimi",
+      "displayName": "特米米",
+      "sourceFolder": "角色基础包/Tomimi",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-dfad448897ceae68.zip"
+    },
+    {
+      "file": "base-581cc633e5802500.zip",
+      "bytes": 3563569,
+      "kind": "base",
+      "roleId": "Totter",
+      "displayName": "铅踝",
+      "sourceFolder": "角色基础包/Totter",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-581cc633e5802500.zip"
+    },
+    {
+      "file": "base-325c6d7c626005e2.zip",
+      "bytes": 5275334,
+      "kind": "base",
+      "roleId": "Tragodia",
+      "displayName": "酒神",
+      "sourceFolder": "角色基础包/Tragodia",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-325c6d7c626005e2.zip"
+    },
+    {
+      "file": "base-83b6a578a0d9c3bc.zip",
+      "bytes": 5542866,
+      "kind": "base",
+      "roleId": "Tsukinogi",
+      "displayName": "月禾",
+      "sourceFolder": "角色基础包/Tsukinogi",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-83b6a578a0d9c3bc.zip"
+    },
+    {
+      "file": "base-47c08ddbddc2d61c.zip",
+      "bytes": 3863206,
+      "kind": "base",
+      "roleId": "Tuye",
+      "displayName": "图耶",
+      "sourceFolder": "角色基础包/Tuye",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-47c08ddbddc2d61c.zip"
+    },
+    {
+      "file": "base-bb147488443f7ae9.zip",
+      "bytes": 8236421,
+      "kind": "base",
+      "roleId": "Typhon",
+      "displayName": "提丰",
+      "sourceFolder": "角色基础包/Typhon",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-bb147488443f7ae9.zip"
+    },
+    {
+      "file": "base-2b07644a145f19cd.zip",
+      "bytes": 5263726,
+      "kind": "base",
+      "roleId": "U-Official",
+      "displayName": "U-Official",
+      "sourceFolder": "角色基础包/U-Official",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-2b07644a145f19cd.zip"
+    },
+    {
+      "file": "base-677eefe05f9044aa.zip",
+      "bytes": 5517668,
+      "kind": "base",
+      "roleId": "Ulpianus",
+      "displayName": "乌尔比安",
+      "sourceFolder": "角色基础包/Ulpianus",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-677eefe05f9044aa.zip"
+    },
+    {
+      "file": "base-9b0e4a12eb74ffca.zip",
+      "bytes": 5416224,
+      "kind": "base",
+      "roleId": "Underflow",
+      "displayName": "深巡",
+      "sourceFolder": "角色基础包/Underflow",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-9b0e4a12eb74ffca.zip"
+    },
+    {
+      "file": "base-42fb87e7b19594cf.zip",
+      "bytes": 4214971,
+      "kind": "base",
+      "roleId": "Utage",
+      "displayName": "宴",
+      "sourceFolder": "角色基础包/Utage",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-42fb87e7b19594cf.zip"
+    },
+    {
+      "file": "base-34f86ab89ff4251f.zip",
+      "bytes": 4569976,
+      "kind": "base",
+      "roleId": "Valarqvin",
+      "displayName": "凛视",
+      "sourceFolder": "角色基础包/Valarqvin",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-34f86ab89ff4251f.zip"
+    },
+    {
+      "file": "base-05dcae2b47ae8627.zip",
+      "bytes": 2678741,
+      "kind": "base",
+      "roleId": "Vanilla",
+      "displayName": "香草",
+      "sourceFolder": "角色基础包/Vanilla",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-05dcae2b47ae8627.zip"
+    },
+    {
+      "file": "base-635367bfc7b7bc0f.zip",
+      "bytes": 4292859,
+      "kind": "base",
+      "roleId": "Varkáris",
+      "displayName": "摆渡人",
+      "sourceFolder": "角色基础包/Varkáris",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-635367bfc7b7bc0f.zip"
+    },
+    {
+      "file": "base-880cc4ece234ee63.zip",
+      "bytes": 6712588,
+      "kind": "base",
+      "roleId": "Vendela",
+      "displayName": "刺玫",
+      "sourceFolder": "角色基础包/Vendela",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-880cc4ece234ee63.zip"
+    },
+    {
+      "file": "base-4671cee279d8ca0b.zip",
+      "bytes": 4990562,
+      "kind": "base",
+      "roleId": "Verdant",
+      "displayName": "维荻",
+      "sourceFolder": "角色基础包/Verdant",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-4671cee279d8ca0b.zip"
+    },
+    {
+      "file": "base-f4a07021136c9feb.zip",
+      "bytes": 3080697,
+      "kind": "base",
+      "roleId": "Vermeil",
+      "displayName": "红云",
+      "sourceFolder": "角色基础包/Vermeil",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-f4a07021136c9feb.zip"
+    },
+    {
+      "file": "base-b621de5fcb926dd1.zip",
+      "bytes": 6408207,
+      "kind": "base",
+      "roleId": "Vigil",
+      "displayName": "伺夜",
+      "sourceFolder": "角色基础包/Vigil",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-b621de5fcb926dd1.zip"
+    },
+    {
+      "file": "base-ccb0fda9622ff97d.zip",
+      "bytes": 4463276,
+      "kind": "base",
+      "roleId": "Vigna",
+      "displayName": "红豆",
+      "sourceFolder": "角色基础包/Vigna",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-ccb0fda9622ff97d.zip"
+    },
+    {
+      "file": "base-547906baace32175.zip",
+      "bytes": 5520415,
+      "kind": "base",
+      "roleId": "Vina Victoria",
+      "displayName": "维娜·维多利亚",
+      "sourceFolder": "角色基础包/Vina Victoria",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-547906baace32175.zip"
+    },
+    {
+      "file": "base-13221239c04570cd.zip",
+      "bytes": 5504109,
+      "kind": "base",
+      "roleId": "Violet Mizutsune Orchid",
+      "displayName": "焰狐龙梓兰",
+      "sourceFolder": "角色基础包/Violet Mizutsune Orchid",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-13221239c04570cd.zip"
+    },
+    {
+      "file": "base-1efcb0743e5b9757.zip",
+      "bytes": 5335708,
+      "kind": "base",
+      "roleId": "Virtuosa",
+      "displayName": "塑心",
+      "sourceFolder": "角色基础包/Virtuosa",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-1efcb0743e5b9757.zip"
+    },
+    {
+      "file": "base-e1a8df4aba7b23d9.zip",
+      "bytes": 6256581,
+      "kind": "base",
+      "roleId": "Viviana",
+      "displayName": "薇薇安娜",
+      "sourceFolder": "角色基础包/Viviana",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-e1a8df4aba7b23d9.zip"
+    },
+    {
+      "file": "base-31664dec712c0836.zip",
+      "bytes": 3073325,
+      "kind": "base",
+      "roleId": "Vulcan",
+      "displayName": "火神",
+      "sourceFolder": "角色基础包/Vulcan",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-31664dec712c0836.zip"
+    },
+    {
+      "file": "base-4ff2184693f55a78.zip",
+      "bytes": 6394717,
+      "kind": "base",
+      "roleId": "Vulpisfoglia",
+      "displayName": "忍冬",
+      "sourceFolder": "角色基础包/Vulpisfoglia",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-4ff2184693f55a78.zip"
+    },
+    {
+      "file": "base-fcb5f40df9be6bae.zip",
+      "bytes": 6291576,
+      "kind": "base",
+      "roleId": "W",
+      "displayName": "W",
+      "sourceFolder": "角色基础包/W",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-fcb5f40df9be6bae.zip"
+    },
+    {
+      "file": "base-65c964c2aee7d261.zip",
+      "bytes": 4774970,
+      "kind": "base",
+      "roleId": "Waai Fu",
+      "displayName": "槐琥",
+      "sourceFolder": "角色基础包/Waai Fu",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-65c964c2aee7d261.zip"
+    },
+    {
+      "file": "base-fc89e1f79bce7d06.zip",
+      "bytes": 5463970,
+      "kind": "base",
+      "roleId": "Wakaba Mutsumi",
+      "displayName": "若叶睦",
+      "sourceFolder": "角色基础包/Wakaba Mutsumi",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-fc89e1f79bce7d06.zip"
+    },
+    {
+      "file": "base-1c8e2c2ba9636343.zip",
+      "bytes": 5703256,
+      "kind": "base",
+      "roleId": "Wang",
+      "displayName": "望",
+      "sourceFolder": "角色基础包/Wang",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-1c8e2c2ba9636343.zip"
+    },
+    {
+      "file": "base-2eaea3dea8b9f202.zip",
+      "bytes": 6092283,
+      "kind": "base",
+      "roleId": "Wanqing",
+      "displayName": "万顷",
+      "sourceFolder": "角色基础包/Wanqing",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-2eaea3dea8b9f202.zip"
+    },
+    {
+      "file": "base-64e7d4ecaf0f4ae0.zip",
+      "bytes": 4072707,
+      "kind": "base",
+      "roleId": "Warfarin",
+      "displayName": "华法琳",
+      "sourceFolder": "角色基础包/Warfarin",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-64e7d4ecaf0f4ae0.zip"
+    },
+    {
+      "file": "base-cead08db5ce5860c.zip",
+      "bytes": 4925266,
+      "kind": "base",
+      "roleId": "Warmy",
+      "displayName": "温米",
+      "sourceFolder": "角色基础包/Warmy",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-cead08db5ce5860c.zip"
+    },
+    {
+      "file": "base-64ed231014b2ed26.zip",
+      "bytes": 5092491,
+      "kind": "base",
+      "roleId": "Weedy",
+      "displayName": "温蒂",
+      "sourceFolder": "角色基础包/Weedy",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-64ed231014b2ed26.zip"
+    },
+    {
+      "file": "base-63237586b06520f0.zip",
+      "bytes": 4446328,
+      "kind": "base",
+      "roleId": "Whislash",
+      "displayName": "鞭刃",
+      "sourceFolder": "角色基础包/Whislash",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-63237586b06520f0.zip"
+    },
+    {
+      "file": "base-cde3fc54cfdda952.zip",
+      "bytes": 6037944,
+      "kind": "base",
+      "roleId": "Whisperain",
+      "displayName": "絮雨",
+      "sourceFolder": "角色基础包/Whisperain",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-cde3fc54cfdda952.zip"
+    },
+    {
+      "file": "base-1755282034d1ee82.zip",
+      "bytes": 4802053,
+      "kind": "base",
+      "roleId": "Wild Mane",
+      "displayName": "野鬃",
+      "sourceFolder": "角色基础包/Wild Mane",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-1755282034d1ee82.zip"
+    },
+    {
+      "file": "base-7202d39cd631d1d9.zip",
+      "bytes": 4179282,
+      "kind": "base",
+      "roleId": "Wind Chimes",
+      "displayName": "铎铃",
+      "sourceFolder": "角色基础包/Wind Chimes",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-7202d39cd631d1d9.zip"
+    },
+    {
+      "file": "base-f232753835bb273f.zip",
+      "bytes": 3372342,
+      "kind": "base",
+      "roleId": "Windflit",
+      "displayName": "掠风",
+      "sourceFolder": "角色基础包/Windflit",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-f232753835bb273f.zip"
+    },
+    {
+      "file": "base-b023aa6c46738bf1.zip",
+      "bytes": 6105052,
+      "kind": "base",
+      "roleId": "Windscoot",
+      "displayName": "骋风",
+      "sourceFolder": "角色基础包/Windscoot",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-b023aa6c46738bf1.zip"
+    },
+    {
+      "file": "base-22fa905138804237.zip",
+      "bytes": 10795545,
+      "kind": "base",
+      "roleId": "Wiš'adel",
+      "displayName": "维什戴尔",
+      "sourceFolder": "角色基础包/Wiš'adel",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-22fa905138804237.zip"
+    },
+    {
+      "file": "base-2732f3e7522777a7.zip",
+      "bytes": 4669038,
+      "kind": "base",
+      "roleId": "Wulfenite",
+      "displayName": "钼铅",
+      "sourceFolder": "角色基础包/Wulfenite",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-2732f3e7522777a7.zip"
+    },
+    {
+      "file": "base-6483e04f2da5a0cb.zip",
+      "bytes": 6259188,
+      "kind": "base",
+      "roleId": "Xingzhu",
+      "displayName": "行箸",
+      "sourceFolder": "角色基础包/Xingzhu",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-6483e04f2da5a0cb.zip"
+    },
+    {
+      "file": "base-70fd29f8e74c9ccb.zip",
+      "bytes": 3653777,
+      "kind": "base",
+      "roleId": "Yahata Umiri",
+      "displayName": "八幡海铃",
+      "sourceFolder": "角色基础包/Yahata Umiri",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-70fd29f8e74c9ccb.zip"
+    },
+    {
+      "file": "base-ee83226817df6b07.zip",
+      "bytes": 1484585,
+      "kind": "base",
+      "roleId": "Yato",
+      "displayName": "夜刀",
+      "sourceFolder": "角色基础包/Yato",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-ee83226817df6b07.zip"
+    },
+    {
+      "file": "base-b35711f3f896189c.zip",
+      "bytes": 6459140,
+      "kind": "base",
+      "roleId": "Yu",
+      "displayName": "余",
+      "sourceFolder": "角色基础包/Yu",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-b35711f3f896189c.zip"
+    },
+    {
+      "file": "base-26a6cc98f141f3c4.zip",
+      "bytes": 7559671,
+      "kind": "base",
+      "roleId": "Yukari Takeba",
+      "displayName": "岳羽由加莉",
+      "sourceFolder": "角色基础包/Yukari Takeba",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-26a6cc98f141f3c4.zip"
+    },
+    {
+      "file": "base-cc8587ea39984d79.zip",
+      "bytes": 7948972,
+      "kind": "base",
+      "roleId": "Yūtenji Nyamu",
+      "displayName": "祐天寺若麦",
+      "sourceFolder": "角色基础包/Yūtenji Nyamu",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-cc8587ea39984d79.zip"
+    },
+    {
+      "file": "base-0347fd530f2c7c1f.zip",
+      "bytes": 3745205,
+      "kind": "base",
+      "roleId": "Zima the Raging Tide",
+      "displayName": "怒潮凛冬",
+      "sourceFolder": "角色基础包/Zima the Raging Tide",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-0347fd530f2c7c1f.zip"
+    },
+    {
+      "file": "base-969ef02b483774e9.zip",
+      "bytes": 5988829,
+      "kind": "base",
+      "roleId": "Zinogre S Catapult",
+      "displayName": "雷狼龙S空爆",
+      "sourceFolder": "角色基础包/Zinogre S Catapult",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-969ef02b483774e9.zip"
+    },
+    {
+      "file": "base-04af8cf8ebf8c6bc.zip",
+      "bytes": 8339731,
+      "kind": "base",
+      "roleId": "Zuo Le",
+      "displayName": "左乐",
+      "sourceFolder": "角色基础包/Zuo Le",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-04af8cf8ebf8c6bc.zip"
+    },
+    {
+      "file": "base-fd48b01f7678304c.zip",
+      "bytes": 4504584,
+      "kind": "base",
+      "roleId": "Ботани",
+      "displayName": "伯塔尼",
+      "sourceFolder": "角色基础包/Ботани",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-fd48b01f7678304c.zip"
+    },
+    {
+      "file": "base-edcebd5cff5fc505.zip",
+      "bytes": 6209348,
+      "kind": "base",
+      "roleId": "Веточки",
+      "displayName": "折桠",
+      "sourceFolder": "角色基础包/Веточки",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-edcebd5cff5fc505.zip"
+    },
+    {
+      "file": "base-15f471f1b4b0f39d.zip",
+      "bytes": 6059171,
+      "kind": "base",
+      "roleId": "Вий",
+      "displayName": "维伊",
+      "sourceFolder": "角色基础包/Вий",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-15f471f1b4b0f39d.zip"
+    },
+    {
+      "file": "base-00f26d862d6c74f5.zip",
+      "bytes": 3340635,
+      "kind": "base",
+      "roleId": "Гум",
+      "displayName": "古米",
+      "sourceFolder": "角色基础包/Гум",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-00f26d862d6c74f5.zip"
+    },
+    {
+      "file": "base-ed5c0dfc17e07fd2.zip",
+      "bytes": 3028682,
+      "kind": "base",
+      "roleId": "Зима",
+      "displayName": "凛冬",
+      "sourceFolder": "角色基础包/Зима",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-ed5c0dfc17e07fd2.zip"
+    },
+    {
+      "file": "base-2fb08a46a5e829b9.zip",
+      "bytes": 3259644,
+      "kind": "base",
+      "roleId": "Истина",
+      "displayName": "真理",
+      "sourceFolder": "角色基础包/Истина",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-2fb08a46a5e829b9.zip"
+    },
+    {
+      "file": "base-f5aedeeab4367e54.zip",
+      "bytes": 3837702,
+      "kind": "base",
+      "roleId": "Лето",
+      "displayName": "烈夏",
+      "sourceFolder": "角色基础包/Лето",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-f5aedeeab4367e54.zip"
+    },
+    {
+      "file": "base-130da36ca16d4bba.zip",
+      "bytes": 7262024,
+      "kind": "base",
+      "roleId": "Позёмка",
+      "displayName": "鸿雪",
+      "sourceFolder": "角色基础包/Позёмка",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-130da36ca16d4bba.zip"
+    },
+    {
+      "file": "base-d2ce5895eea40b0e.zip",
+      "bytes": 6428817,
+      "kind": "base",
+      "roleId": "Роса",
+      "displayName": "早露",
+      "sourceFolder": "角色基础包/Роса",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-d2ce5895eea40b0e.zip"
+    },
+    {
+      "file": "base-147a12ba84c20a41.zip",
+      "bytes": 4546998,
+      "kind": "base",
+      "roleId": "Снегyрочка",
+      "displayName": "冬时",
+      "sourceFolder": "角色基础包/Снегyрочка",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-147a12ba84c20a41.zip"
+    },
+    {
+      "file": "base-28a69d495cbccef0.zip",
+      "bytes": 5252873,
+      "kind": "base",
+      "roleId": "Укусик",
+      "displayName": "乌啾",
+      "sourceFolder": "角色基础包/Укусик",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-28a69d495cbccef0.zip"
+    },
+    {
+      "file": "base-29a2a6832da469f9.zip",
+      "bytes": 2874967,
+      "kind": "base",
+      "roleId": "／Justice Knight／",
+      "displayName": "正义骑士号",
+      "sourceFolder": "角色基础包/／Justice Knight／",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/base-29a2a6832da469f9.zip"
+    }
+  ],
+  "voicePackages": [
+    {
+      "file": "voice-e73c8da1ecb12eff.zip",
+      "bytes": 222987781,
+      "kind": "voice",
+      "roleId": "Amiya",
+      "displayName": "Amiya",
+      "sourceFolder": "语音权重包/Amiya",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-e73c8da1ecb12eff.zip"
+    },
+    {
+      "file": "voice-b5d843c9b139acec.zip",
+      "bytes": 222987413,
+      "kind": "voice",
+      "roleId": "Amiya(医疗)",
+      "displayName": "Amiya(医疗)",
+      "sourceFolder": "语音权重包/Amiya(医疗)",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-b5d843c9b139acec.zip"
+    },
+    {
+      "file": "voice-ff98469e0fd8c472.zip",
+      "bytes": 222989262,
+      "kind": "voice",
+      "roleId": "Amiya(近卫)",
+      "displayName": "Amiya(近卫)",
+      "sourceFolder": "语音权重包/Amiya(近卫)",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-ff98469e0fd8c472.zip"
+    },
+    {
+      "file": "voice-6f04e2bff3161d79.zip",
+      "bytes": 222991738,
+      "kind": "voice",
+      "roleId": "Angelina the Mellow Wish",
+      "displayName": "Angelina the Mellow Wish",
+      "sourceFolder": "语音权重包/Angelina the Mellow Wish",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-6f04e2bff3161d79.zip"
+    },
+    {
+      "file": "voice-e957fe67c391bb70.zip",
+      "bytes": 222989739,
+      "kind": "voice",
+      "roleId": "Civilight Eterna",
+      "displayName": "Civilight Eterna",
+      "sourceFolder": "语音权重包/Civilight Eterna",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-e957fe67c391bb70.zip"
+    },
+    {
+      "file": "voice-e90d617d2b55cdbd.zip",
+      "bytes": 222992524,
+      "kind": "voice",
+      "roleId": "Closure",
+      "displayName": "Closure",
+      "sourceFolder": "语音权重包/Closure",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-e90d617d2b55cdbd.zip"
+    },
+    {
+      "file": "voice-abd7160c1f46a064.zip",
+      "bytes": 222990253,
+      "kind": "voice",
+      "roleId": "Dusk",
+      "displayName": "Dusk",
+      "sourceFolder": "语音权重包/Dusk",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-abd7160c1f46a064.zip"
+    },
+    {
+      "file": "voice-96de71a4a2963373.zip",
+      "bytes": 222983679,
+      "kind": "voice",
+      "roleId": "Exusiai",
+      "displayName": "Exusiai",
+      "sourceFolder": "语音权重包/Exusiai",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-96de71a4a2963373.zip"
+    },
+    {
+      "file": "voice-430f940f1ff1c5c2.zip",
+      "bytes": 222990409,
+      "kind": "voice",
+      "roleId": "Exusiai the New Covenant",
+      "displayName": "Exusiai the New Covenant",
+      "sourceFolder": "语音权重包/Exusiai the New Covenant",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-430f940f1ff1c5c2.zip"
+    },
+    {
+      "file": "voice-5e75323322a7df94.zip",
+      "bytes": 222989333,
+      "kind": "voice",
+      "roleId": "Eyjafjalla",
+      "displayName": "Eyjafjalla",
+      "sourceFolder": "语音权重包/Eyjafjalla",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-5e75323322a7df94.zip"
+    },
+    {
+      "file": "voice-aa8c9fab8234a329.zip",
+      "bytes": 222992788,
+      "kind": "voice",
+      "roleId": "Eyjafjalla the Hvít Aska",
+      "displayName": "Eyjafjalla the Hvít Aska",
+      "sourceFolder": "语音权重包/Eyjafjalla the Hvít Aska",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-aa8c9fab8234a329.zip"
+    },
+    {
+      "file": "voice-66f3f50a0f3da0cd.zip",
+      "bytes": 222986075,
+      "kind": "voice",
+      "roleId": "Goldenglow",
+      "displayName": "Goldenglow",
+      "sourceFolder": "语音权重包/Goldenglow",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-66f3f50a0f3da0cd.zip"
+    },
+    {
+      "file": "voice-3b001de367575133.zip",
+      "bytes": 222990486,
+      "kind": "voice",
+      "roleId": "Haruka",
+      "displayName": "Haruka",
+      "sourceFolder": "语音权重包/Haruka",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-3b001de367575133.zip"
+    },
+    {
+      "file": "voice-135d88ff4f2c8c1d.zip",
+      "bytes": 222990569,
+      "kind": "voice",
+      "roleId": "Hoshiguma the Breacher",
+      "displayName": "Hoshiguma the Breacher",
+      "sourceFolder": "语音权重包/Hoshiguma the Breacher",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-135d88ff4f2c8c1d.zip"
+    },
+    {
+      "file": "voice-c3ef02333f92b8d9.zip",
+      "bytes": 222990581,
+      "kind": "voice",
+      "roleId": "Ines",
+      "displayName": "Ines",
+      "sourceFolder": "语音权重包/Ines",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-c3ef02333f92b8d9.zip"
+    },
+    {
+      "file": "voice-c571bef9245737a8.zip",
+      "bytes": 222989452,
+      "kind": "voice",
+      "roleId": "Kal'tsit",
+      "displayName": "Kal'tsit",
+      "sourceFolder": "语音权重包/Kal'tsit",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-c571bef9245737a8.zip"
+    },
+    {
+      "file": "voice-57442f6dfb839766.zip",
+      "bytes": 222991271,
+      "kind": "voice",
+      "roleId": "Kal'tsit·Esperanta",
+      "displayName": "Kal'tsit·Esperanta",
+      "sourceFolder": "语音权重包/Kal'tsit·Esperanta",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-57442f6dfb839766.zip"
+    },
+    {
+      "file": "voice-e00d283c8b98696d.zip",
+      "bytes": 222985765,
+      "kind": "voice",
+      "roleId": "Lappland",
+      "displayName": "Lappland",
+      "sourceFolder": "语音权重包/Lappland",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-e00d283c8b98696d.zip"
+    },
+    {
+      "file": "voice-cb20aa5a2bc3a66b.zip",
+      "bytes": 222991492,
+      "kind": "voice",
+      "roleId": "Lappland the Decadenza",
+      "displayName": "Lappland the Decadenza",
+      "sourceFolder": "语音权重包/Lappland the Decadenza",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-cb20aa5a2bc3a66b.zip"
+    },
+    {
+      "file": "voice-6651861323576047.zip",
+      "bytes": 222991792,
+      "kind": "voice",
+      "roleId": "Lemuen",
+      "displayName": "Lemuen",
+      "sourceFolder": "语音权重包/Lemuen",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-6651861323576047.zip"
+    },
+    {
+      "file": "voice-2b0709236ba29664.zip",
+      "bytes": 222992064,
+      "kind": "voice",
+      "roleId": "Logos",
+      "displayName": "Logos",
+      "sourceFolder": "语音权重包/Logos",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-2b0709236ba29664.zip"
+    },
+    {
+      "file": "voice-b8f68abf5bd8845f.zip",
+      "bytes": 222987133,
+      "kind": "voice",
+      "roleId": "Makoto Yuki",
+      "displayName": "Makoto Yuki",
+      "sourceFolder": "语音权重包/Makoto Yuki",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-b8f68abf5bd8845f.zip"
+    },
+    {
+      "file": "voice-c8a531dc8416b275.zip",
+      "bytes": 222984817,
+      "kind": "voice",
+      "roleId": "Misumi Uika",
+      "displayName": "Misumi Uika",
+      "sourceFolder": "语音权重包/Misumi Uika",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-c8a531dc8416b275.zip"
+    },
+    {
+      "file": "voice-6d72ffb4cb5e105b.zip",
+      "bytes": 222991969,
+      "kind": "voice",
+      "roleId": "Mon3tr",
+      "displayName": "Mon3tr",
+      "sourceFolder": "语音权重包/Mon3tr",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-6d72ffb4cb5e105b.zip"
+    },
+    {
+      "file": "voice-184f38087399ec9d.zip",
+      "bytes": 222988454,
+      "kind": "voice",
+      "roleId": "Mostima",
+      "displayName": "Mostima",
+      "sourceFolder": "语音权重包/Mostima",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-184f38087399ec9d.zip"
+    },
+    {
+      "file": "voice-ec756730fb6b396e.zip",
+      "bytes": 222988962,
+      "kind": "voice",
+      "roleId": "Muelsyse",
+      "displayName": "Muelsyse",
+      "sourceFolder": "语音权重包/Muelsyse",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-ec756730fb6b396e.zip"
+    },
+    {
+      "file": "voice-2606368d6003c428.zip",
+      "bytes": 222990556,
+      "kind": "voice",
+      "roleId": "Pramanix the Prerita",
+      "displayName": "Pramanix the Prerita",
+      "sourceFolder": "语音权重包/Pramanix the Prerita",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-2606368d6003c428.zip"
+    },
+    {
+      "file": "voice-fe0a6d0925767204.zip",
+      "bytes": 222989823,
+      "kind": "voice",
+      "roleId": "Rosmontis",
+      "displayName": "Rosmontis",
+      "sourceFolder": "语音权重包/Rosmontis",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-fe0a6d0925767204.zip"
+    },
+    {
+      "file": "voice-ae3379ac2ab35c1c.zip",
+      "bytes": 222991288,
+      "kind": "voice",
+      "roleId": "Shu",
+      "displayName": "Shu",
+      "sourceFolder": "语音权重包/Shu",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-ae3379ac2ab35c1c.zip"
+    },
+    {
+      "file": "voice-a096f91ed2e553e1.zip",
+      "bytes": 222989191,
+      "kind": "voice",
+      "roleId": "SilverAsh the Reignfrost",
+      "displayName": "SilverAsh the Reignfrost",
+      "sourceFolder": "语音权重包/SilverAsh the Reignfrost",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-a096f91ed2e553e1.zip"
+    },
+    {
+      "file": "voice-dfd12bda87e2fea3.zip",
+      "bytes": 222990930,
+      "kind": "voice",
+      "roleId": "Skadi the Corrupting Heart",
+      "displayName": "Skadi the Corrupting Heart",
+      "sourceFolder": "语音权重包/Skadi the Corrupting Heart",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-dfd12bda87e2fea3.zip"
+    },
+    {
+      "file": "voice-794427dff27a27be.zip",
+      "bytes": 222986877,
+      "kind": "voice",
+      "roleId": "Surtr",
+      "displayName": "Surtr",
+      "sourceFolder": "语音权重包/Surtr",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-794427dff27a27be.zip"
+    },
+    {
+      "file": "voice-c238d643873082f2.zip",
+      "bytes": 222987046,
+      "kind": "voice",
+      "roleId": "Suzuran",
+      "displayName": "Suzuran",
+      "sourceFolder": "语音权重包/Suzuran",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-c238d643873082f2.zip"
+    },
+    {
+      "file": "voice-04b682e0edb0b41c.zip",
+      "bytes": 222987211,
+      "kind": "voice",
+      "roleId": "Togawa Sakiko",
+      "displayName": "Togawa Sakiko",
+      "sourceFolder": "语音权重包/Togawa Sakiko",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-04b682e0edb0b41c.zip"
+    },
+    {
+      "file": "voice-325c6d7c626005e2.zip",
+      "bytes": 222987520,
+      "kind": "voice",
+      "roleId": "Tragodia",
+      "displayName": "Tragodia",
+      "sourceFolder": "语音权重包/Tragodia",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-325c6d7c626005e2.zip"
+    },
+    {
+      "file": "voice-fcb5f40df9be6bae.zip",
+      "bytes": 222989705,
+      "kind": "voice",
+      "roleId": "W",
+      "displayName": "W",
+      "sourceFolder": "语音权重包/W",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-fcb5f40df9be6bae.zip"
+    },
+    {
+      "file": "voice-fc89e1f79bce7d06.zip",
+      "bytes": 222985289,
+      "kind": "voice",
+      "roleId": "Wakaba Mutsumi",
+      "displayName": "Wakaba Mutsumi",
+      "sourceFolder": "语音权重包/Wakaba Mutsumi",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-fc89e1f79bce7d06.zip"
+    },
+    {
+      "file": "voice-1c8e2c2ba9636343.zip",
+      "bytes": 222986872,
+      "kind": "voice",
+      "roleId": "Wang",
+      "displayName": "Wang",
+      "sourceFolder": "语音权重包/Wang",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-1c8e2c2ba9636343.zip"
+    },
+    {
+      "file": "voice-22fa905138804237.zip",
+      "bytes": 222991180,
+      "kind": "voice",
+      "roleId": "Wiš'adel",
+      "displayName": "Wiš'adel",
+      "sourceFolder": "语音权重包/Wiš'adel",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-22fa905138804237.zip"
+    },
+    {
+      "file": "voice-70fd29f8e74c9ccb.zip",
+      "bytes": 222987449,
+      "kind": "voice",
+      "roleId": "Yahata Umiri",
+      "displayName": "Yahata Umiri",
+      "sourceFolder": "语音权重包/Yahata Umiri",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-70fd29f8e74c9ccb.zip"
+    },
+    {
+      "file": "voice-cc8587ea39984d79.zip",
+      "bytes": 222986463,
+      "kind": "voice",
+      "roleId": "Yūtenji Nyamu",
+      "displayName": "Yūtenji Nyamu",
+      "sourceFolder": "语音权重包/Yūtenji Nyamu",
+      "url": "https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.0/voice-cc8587ea39984d79.zip"
+    }
+  ],
+  "notProvided": [
+    "12F",
+    "Aak",
+    "Absinthe",
+    "Aciddrop",
+    "Adnachiel",
+    "Aegis",
+    "Akafuyu",
+    "Akkord",
+    "Alanna",
+    "Almond",
+    "Ambriel",
+    "Andreana",
+    "Angelina",
+    "Ansel",
+    "Aosta",
+    "Aphrissa",
+    "April",
+    "Archetto",
+    "Arene",
+    "Aroma",
+    "Asbestos",
+    "Ascalon",
+    "Ash",
+    "Ashlock",
+    "Astesia",
+    "Astgenne",
+    "Astgenne the Lightchaser",
+    "Aurora",
+    "Ayerscarpe",
+    "Bagpipe",
+    "Bassline",
+    "Beagle",
+    "Beanstalk",
+    "Beehunter",
+    "Beeswax",
+    "Bellone",
+    "Bena",
+    "Bibeak",
+    "Bison",
+    "Blacknight",
+    "Blaze",
+    "Blaze the Igniting Spark",
+    "Blemishine",
+    "Blitz",
+    "Blue Poison",
+    "Bobbing",
+    "Breeze",
+    "Brigid",
+    "Broca",
+    "Bryophyta",
+    "Bubble",
+    "CONFESS-47",
+    "Cairn",
+    "Cantabile",
+    "Caper",
+    "Cardigan",
+    "Carnelian",
+    "Castle-3",
+    "Catapult",
+    "Catherine",
+    "Cement",
+    "Ceobe",
+    "Ceylon",
+    "Ch'en",
+    "Ch'en the Dawnstreak",
+    "Ch'en the Holungday",
+    "Chestnut",
+    "Chiave",
+    "Chilchuck",
+    "Chongyue",
+    "Click",
+    "Cliffheart",
+    "Coldshot",
+    "Contrail",
+    "Conviction",
+    "Corroserum",
+    "Courier",
+    "Crackborne",
+    "Croissant",
+    "Crownslayer",
+    "Cuora",
+    "Cutter",
+    "Czerny",
+    "Dagda",
+    "Deepcolor",
+    "Degenbrecher",
+    "Delphine",
+    "Diamante",
+    "Dobermann",
+    "Doc",
+    "Dorothy",
+    "Dur-nar",
+    "Durin",
+    "Earthspirit",
+    "Ebenholz",
+    "Ela",
+    "Elysium",
+    "Enforcer",
+    "Entelechia",
+    "Erato",
+    "Estelle",
+    "Ethan",
+    "Eunectes",
+    "Executor",
+    "Executor the Ex Foedere",
+    "FEater",
+    "Fang",
+    "Fang the Fire-sharpened",
+    "Fartooth",
+    "Fiammetta",
+    "Figurino",
+    "Firewatch",
+    "Firewhistle",
+    "Flamebringer",
+    "Flametail",
+    "Flint",
+    "Folinic",
+    "Franka",
+    "Friston-3",
+    "Frost",
+    "Frostleaf",
+    "Fuze",
+    "GALLUS²",
+    "Gavial",
+    "Gavial the Invincible",
+    "Gitano",
+    "Gladiia",
+    "Glaucus",
+    "Gnosis",
+    "Gracebearer",
+    "Grain Buds",
+    "Grani",
+    "Gravel",
+    "GreyThroat",
+    "Greyy",
+    "Greyy the Lightningbearer",
+    "Hadiya",
+    "Harmonie",
+    "Harold",
+    "Haze",
+    "Heavyrain",
+    "Heidi",
+    "Hellagur",
+    "Hibiscus",
+    "Hibiscus the Purifier",
+    "Highmore",
+    "Ho'olheyak",
+    "Hoederer",
+    "Honeyberry",
+    "Horn",
+    "Hoshiguma",
+    "Humus",
+    "Hung",
+    "Iana",
+    "Ifrit",
+    "Indigo",
+    "Indra",
+    "Insider",
+    "Irene",
+    "Iris",
+    "Jacinta",
+    "Jackie",
+    "Jaye",
+    "Jessica",
+    "Jessica the Liberated",
+    "Jieyun",
+    "Ju",
+    "Kafka",
+    "Kazemaru",
+    "Kestrel",
+    "Kichisei",
+    "Kirara",
+    "Kirin R Yato",
+    "Kjera",
+    "Koromaru",
+    "Kroos",
+    "Kroos the Keen Glint",
+    "La Pluma",
+    "Laios",
+    "Lancet-2",
+    "Lava",
+    "Lava the Purgatory",
+    "Lee",
+    "Leizi",
+    "Leizi the Thunderbringer",
+    "Leonhardt",
+    "Lessing",
+    "Lin",
+    "Ling",
+    "Liskarm",
+    "Lucilla",
+    "Lumen",
+    "Lunacub",
+    "Luo Xiaohei",
+    "Lutonada",
+    "Magallan",
+    "Manticore",
+    "Mantra",
+    "Marcille",
+    "Matoimaru",
+    "Matsukiri",
+    "Matterhorn",
+    "May",
+    "Mayer",
+    "Mechanist",
+    "Melanite",
+    "Melantha",
+    "Meteor",
+    "Meteorite",
+    "Midnight",
+    "Minimalist",
+    "Mint",
+    "Miss.Christine",
+    "Mitm",
+    "Mizuki",
+    "Morgan",
+    "Mountain",
+    "Mousse",
+    "Mr.Nothing",
+    "Mudrock",
+    "Mulberry",
+    "Myrrh",
+    "Myrtle",
+    "Młynar",
+    "Narantuya",
+    "Nasti",
+    "Nearl",
+    "Nearl the Radiant Knight",
+    "Necrass",
+    "Nian",
+    "Nightingale",
+    "Nightmare",
+    "Nine-Colored Deer",
+    "Noir Corne",
+    "Nowell",
+    "Nymph",
+    "Odda",
+    "Orchid",
+    "Pallas",
+    "Paprika",
+    "Papyrus",
+    "Passenger",
+    "Pedro",
+    "Penance",
+    "Pepe",
+    "Perfumer",
+    "Perfumer the Distilled",
+    "Phantom",
+    "Philae",
+    "PhonoR-0",
+    "Pinecone",
+    "Platinum",
+    "Plume",
+    "Podenco",
+    "Poncirus",
+    "Popukar",
+    "Pramanix",
+    "Projekt Red",
+    "Provence",
+    "Proviso",
+    "Ptilopsis",
+    "Pudding",
+    "Purestream",
+    "Puzzle",
+    "Qanipalaat",
+    "Qiubai",
+    "Quartz",
+    "Quercus",
+    "Raidian",
+    "Rangers",
+    "Rathalos S Noir Corne",
+    "Ray",
+    "Record Keeper",
+    "Reed",
+    "Reed The Flame Shadow",
+    "Rhodes Island Recon",
+    "Ripresa",
+    "Roberta",
+    "Robin",
+    "Rockrock",
+    "Rope",
+    "Rose Salt",
+    "Saga",
+    "Saileach",
+    "Sand Reckoner",
+    "Sankta Miksaparato",
+    "Santalla",
+    "Saria",
+    "Savage",
+    "Scavenger",
+    "Scene",
+    "Schwarz",
+    "Senshi",
+    "Sesa",
+    "Shalem",
+    "Shamare",
+    "Shaw",
+    "Shining",
+    "ShiraYuki",
+    "Sideroca",
+    "Siege",
+    "Silence",
+    "Silence the Paradigmatic",
+    "SilverAsh",
+    "Skadi",
+    "Skybox",
+    "Skyfire",
+    "Snow Hunter",
+    "Snowsant",
+    "Sora",
+    "Specter",
+    "Specter the Unchained",
+    "Spot",
+    "Spuria",
+    "Stainless",
+    "Steward",
+    "Surfer",
+    "Sussurro",
+    "Swire",
+    "Swire the Elegant Wit",
+    "Tachanka",
+    "Taraxacum",
+    "Tecno",
+    "Tequila",
+    "Terra Research Commission",
+    "Texas",
+    "Texas the Omertosa",
+    "Thermal-EX",
+    "Thorns",
+    "Thorns the Lodestar",
+    "Thumpy",
+    "Timeslot",
+    "Tin Man",
+    "Tippi",
+    "Titi",
+    "Toddifons",
+    "Tomimi",
+    "Totter",
+    "Tsukinogi",
+    "Tuye",
+    "Typhon",
+    "U-Official",
+    "Ulpianus",
+    "Underflow",
+    "Utage",
+    "Valarqvin",
+    "Vanilla",
+    "Varkáris",
+    "Vendela",
+    "Verdant",
+    "Vermeil",
+    "Vigil",
+    "Vigna",
+    "Vina Victoria",
+    "Violet Mizutsune Orchid",
+    "Virtuosa",
+    "Viviana",
+    "Vulcan",
+    "Vulpisfoglia",
+    "Waai Fu",
+    "Wanqing",
+    "Warfarin",
+    "Warmy",
+    "Weedy",
+    "Whislash",
+    "Whisperain",
+    "Wild Mane",
+    "Wind Chimes",
+    "Windflit",
+    "Windscoot",
+    "Wulfenite",
+    "Xingzhu",
+    "Yato",
+    "Yu",
+    "Yukari Takeba",
+    "Zima the Raging Tide",
+    "Zinogre S Catapult",
+    "Zuo Le",
+    "Ботани",
+    "Веточки",
+    "Вий",
+    "Гум",
+    "Зима",
+    "Истина",
+    "Лето",
+    "Позёмка",
+    "Роса",
+    "Снегyрочка",
+    "Укусик",
+    "／Justice Knight／"
+  ]
+}

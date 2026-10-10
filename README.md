@@ -1,3 +1,12 @@
+<!-- BEGIN DOWNLOAD FRONT -->
+# ⬇ 普通用户：下载即用
+
+**[直接下载 轻量版 0.3.1 EXE](https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.1/TerraDeskMateLight-Setup-0.3.1.exe)** · **[安装/便携使用说明](00-下载安装/README.md)** · **[按角色下载](00-下载安装/角色下载目录.md)**
+
+完整离线安装 EXE；另有 [便携解压 EXE](https://github.com/Mizusamada/TerraDeskMateLight/releases/download/v0.3.1/TerraDeskMateLight-Portable-0.3.1.exe)。普通用户不需要 Node.js/npm；下方源码说明面向开发者。
+
+<!-- END DOWNLOAD FRONT -->
+
 ## 0.3.1 角色与稳定性更新
 
 最新资源：434角色、2853模型；新增克莱门莎、德·托莱多、旅骨，及酒神/真言/烈夏三套错位巡礼皮肤。新角色中日官方原声已补齐，日文原文标注仍缺，不能作为已审阅训练稿。Light通过六个完整角色包导入新增内容，其余版保留内置全角色。详见 `docs/RELEASE-0.3.1.md`。本次Release是0.3.0基础上的增量补丁，不是首次安装包；旧完整安装器和便携包保留。

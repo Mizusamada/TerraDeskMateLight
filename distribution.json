@@ -6,7 +6,7 @@
   ],
   "optionalVoiceModels": true,
   "personalDataIncluded": false,
-  "functionalValidation": "not_run",
+  "functionalValidation": "local-electron-passed",
   "includesSharedSpeechRuntime": false,
   "excludesTestsAndPersonalData": true,
   "installers": {
@@ -16,5 +16,10 @@
     "codeSigned": false,
     "requiresNodeForInstaller": false,
     "fullDataVolumes": 0
-  }
+  },
+  "version": "0.3.1",
+  "codeSource": "D:/桌宠",
+  "codeBuild": "canonical-roles-and-stability-0.3.1",
+  "editionName": "light",
+  "modelCount": 12
 }
